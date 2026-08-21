@@ -216,3 +216,34 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Project E: медиа и секреты ---
+.env
+.env.local
+
+# Сырые генерации и мастера в git не храним
+season-*/episode-*/renders/*
+!season-*/episode-*/renders/README.md
+output/**/*.mp4
+output/**/*.mov
+output/**/*.webm
+
+# Бинарные ассеты
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+*.aac
+*.psd
+*.aep
+*.prproj
+
+# Служебное
+.DS_Store
+!**/.gitkeep
