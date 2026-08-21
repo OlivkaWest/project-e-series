@@ -1,22 +1,30 @@
-# EP01 · «Сорок шестая» · PROMPTS
+# EP01 · «Сорок шестая» · PROMPTS v2
 
-Все промпты наследуют `bible/VISUAL_LANGUAGE.md`.
-Блок `IDENTITY LOCK` — черновой, финализируется на CHECKPOINT 5 и после этого не меняется.
+Пересобрано под визуальную систему. Каждый промпт наследует мастер-блок
+`bible/VISUAL_LANGUAGE.md` §11 — ниже указаны только отличия конкретного кадра.
+
+**Ни в одном промпте не упоминаются названия чужих сериалов или режиссёров.**
+Стиль переведён в язык камеры, света, фактур и движения.
 
 ---
 
-## 0. Общие блоки эпизода
-
-### STYLE BLOCK (вставляется в каждый промпт изображения)
+## 0. Базовый блок эпизода
 
 ```text
-STYLE: cinematic stylized realism, 2.5D, night, worn Soviet-era concrete apartment block interior
-PALETTE: #0E1621 cold blue, #1C2B3A graphite, #E3A857 amber accent, #C8332B signal red, #F2EDE4 paper white
-GRAIN: fine film grain 6%, gentle halation on light sources, no vignette
-FRAMING: vertical 9:16, subject in lower third, 12% top and 20% bottom safe area
-NEGATIVE: text, watermark, logo, subtitles, extra fingers, deformed hands, distorted face,
-          monster, gore, lens flare, chromatic aberration, VHS effect, drone shot, fisheye,
-          modern luxury interior, american apartment, daylight in corridor
+STYLE: luxury psychological horror cinematography, photorealistic, physically believable,
+       editorial photography composition, clinical institutional imagery,
+       late-Soviet apartment building interior, night
+COLOR: desaturated institutional palette — dirty milk white #E8E2D4, cold grey #B9B4A8,
+       faded beige #C9BEA6, institutional green oil paint #6E7A68, aged brass #8C7A55,
+       dark wood #3A2C22, faded burgundy #6E3B3B, deep black #0B0B0C, desaturated skin
+GRADE: fine film grain 6%, gentle halation on practicals only, green lift in shadows,
+       blacks never crushed below #0B0B0C
+FRAMING: vertical 9:16, horizon level, 12% top and 20% bottom safe area
+NEGATIVE: monster, creature, gore, jump scare, glowing eyes, plastic skin, airbrushed skin,
+          uncanny smooth render, digital glitch, VHS artefacts, chromatic aberration,
+          lens flare, vignette, teal and orange grade, red horror lighting without a source,
+          drone shot, handheld shake, dutch angle, text, watermark, logo, subtitles,
+          extra fingers, deformed hands
 ```
 
 ### IDENTITY LOCK — Кирилл Радченко (черновик до CP5)
@@ -24,401 +32,418 @@ NEGATIVE: text, watermark, logo, subtitles, extra fingers, deformed hands, disto
 ```text
 29 year old man, eastern european, short dark brown hair, three-day stubble,
 narrow grey-green eyes, straight nose, thin scar through the right eyebrow,
-lean athletic build 182cm, tired but calm expression,
-WARDROBE: dark navy utility work jacket with small embroidered patch on left chest,
-grey t-shirt, dark jeans, worn work boots, keyring on right hip
-NEVER CHANGE: face shape, eye colour, scar on right eyebrow, hair length, jacket
+lean build 182cm, tired calm face, desaturated skin with visible pores and slight asymmetry
+WARDROBE: dark navy utility work jacket with a small embroidered patch on the left chest,
+grey t-shirt, dark jeans, worn work boots, keyring on the right hip
+NEVER CHANGE: face shape, eye colour, scar on the right eyebrow, hair length, jacket
 ```
 
 ---
 
 ## 1. Master frames — Nano Banana
 
-> Порядок: сначала sh01, sh06, sh09, sh12 (холодный тест) → приёмка → остальные девять.
-
-### sh01 — панель лифта
+### sh01 — панель лифта · MACRO
 ```text
-SUBJECT:     elevator control panel, buttons 1 to 9, worn brushed metal, fingerprint smudges
-ACTION:      a tenth button is pushing through the blank metal below the "9", glowing red "46"
-LOCATION:    interior of a small residential elevator cabin at night
-CAMERA:      static, perfectly perpendicular to the panel
-LENS:        85mm macro
-LIGHTING:    cold overhead cabin light, plus self-emitting red glow #C8332B from the new button
-COMPOSITION: panel centred, the "46" button in the lower third, empty metal above
-MATERIALS:   scratched aluminium, chipped paint, dust in the button gaps
-ATMOSPHERE:  ordinary, almost boring — the anomaly is the only strange thing in frame
-IDENTITY LOCK: —
-CONTINUITY:  exactly nine original buttons; 46 appears BELOW the nine, never beside it
-NEGATIVE:    <общий негатив>
+SUBJECT:   an old residential elevator control panel, buttons 1 to 9, brass rings,
+           chipped institutional green oil paint, greasy fingerprints
+ACTION:    a tenth button is pushing outward through the blank metal below the "9",
+           a glowing muted brick red "46"
+CAMERA:    static, exactly perpendicular      LENS: 100mm macro
+LIGHTING:  cold fluorescent from above with a slight green cast, plus the button's own red glow
+COMPOSITION: panel centred, the 46 button in the lower third, blank metal above
+MATERIALS: oxidised brass, chipped paint, dust in the button gaps
+ATMOSPHERE: completely ordinary — the anomaly is the only strange thing in frame
+CONTINUITY: exactly nine original buttons, 46 always BELOW the nine
 Seed: TBD · Файл: assets/ep001-sh01.png
 ```
 
-### sh02 — Кирилл в кабине
+### sh02 — Кирилл и зеркало · WRONG DETAIL
 ```text
-SUBJECT:     <IDENTITY LOCK Кирилл>
-ACTION:      standing in the elevator, turning his head down-left toward the panel, checking not fearing
-LOCATION:    small elevator cabin, scratched mirror on the side wall
-CAMERA:      static, eye level
-LENS:        50mm
-LIGHTING:    cold overhead only, face underlit from below, mirror reflection slightly dimmer
-COMPOSITION: man in the right third, mirror with his reflection in the left third
-MATERIALS:   scratched mirror, graffiti scratches, metal wall panels
-ATMOSPHERE:  end of a night shift, routine
-CONTINUITY:  work jacket with patch, keyring on right hip, scar on right eyebrow
+SUBJECT:   <IDENTITY LOCK>, standing in a small elevator cabin beside a scratched mirror
+ACTION:    eyes moving down-left, head beginning to turn
+CAMERA:    static, eye level                  LENS: 50mm
+LIGHTING:  one bulb behind a yellowed plastic ceiling diffuser; the right half of the face
+           receives no fill light at all and falls into pure black
+COMPOSITION: man in the right third, mirror in the left third, top of his head slightly cropped
+MATERIALS: skin pores, stubble, faint perspiration at the temple, knitted collar,
+           scratched mirror glass, green oil-painted metal wall
+CONTINUITY: jacket patch, keyring on right hip, scar on right eyebrow
 Seed: TBD · Файл: assets/ep001-sh02.png
 ```
 
 ### sh03 — палец у кнопки
 ```text
-SUBJECT:     a man's hand, index finger two centimetres from the glowing 46 button
-ACTION:      the button is fading out on its own, floor indicator reads 9
-LOCATION:    elevator panel
-CAMERA:      static frame prepared for a slow push-in
-LENS:        85mm
-LIGHTING:    dying red glow, cold overhead taking over
-COMPOSITION: finger entering from the left, button on the right, air between them
-CONTINUITY:  the finger NEVER touches the button
+SUBJECT:   a man's hand, index finger two centimetres from the glowing 46 button
+ACTION:    the red glow is fading on its own; floor indicator reads 9
+CAMERA:    static frame prepared for a very slow push-in     LENS: 100mm
+LIGHTING:  dying red glow, cold green fluorescent taking over, door light entering from the left
+MATERIALS: skin of the fingertip in macro, a hangnail, brass
+CONTINUITY: the finger never touches the panel
 Seed: TBD · Файл: assets/ep001-sh03.png
 ```
 
-### sh04 — коридор
+### sh04 — коридор · BEAUTIFUL FRAME / ПОСТЕР
 ```text
-SUBJECT:     empty ninth-floor corridor of a panel apartment building, impossibly long
-ACTION:      one fluorescent tube flickering mid-corridor; a warm amber sliver of light under a white door at the far end
-LOCATION:    residential corridor, five apartment doors on the left, numbers 41 to 45
-CAMERA:      static, from inside the open elevator, eye level
-LENS:        35mm
-LIGHTING:    single flickering tube, cold; amber #E3A857 light leaking under the far door
-COMPOSITION: one-point perspective, white door dead centre, headroom above for subtitles
-MATERIALS:   painted concrete, chipped skirting, leatherette-covered doors
-ATMOSPHERE:  the corridor is longer than the building could possibly be
-CONTINUITY:  exactly five doors plus the 46th; corridor length constant across all episodes
+SUBJECT:   an empty ninth-floor corridor of a late-Soviet panel apartment building,
+           impossibly long, in strict one-point perspective
+ACTION:    a single fluorescent tube mid-corridor; a narrow milk-white sliver of light
+           under a white door at the far end
+LOCATION:  five leatherette-covered doors on the left, numbers 41 to 45
+CAMERA:    static, from inside the open elevator, eye level     LENS: 24mm
+LIGHTING:  one fluorescent tube only, green cast; corners of the frame receive no fill;
+           warm milk-white #E8E2D4 shaft at the far end
+COMPOSITION: perfect symmetry, the white door at the exact centre, headroom for subtitles
+MATERIALS: institutional green oil paint to chest height, faded whitewash above,
+           bare concrete floor, worn burgundy runner, dust visible in the tube light
+ATMOSPHERE: beautiful before it is frightening — this frame is the series poster
+CONTINUITY: exactly five doors plus the 46th; corridor length constant across all episodes
 Seed: TBD · Файл: assets/ep001-sh04.png
 ```
 
-### sh05 — проход
+### sh05 — проход вглубь
 ```text
-SUBJECT:     <IDENTITY LOCK Кирилл>, seen from behind
-ACTION:      walking steadily toward the far white door, glancing up at the flickering tube
-LOCATION:    the same corridor
-CAMERA:      static frame prepared for a slow pull-out
-LENS:        35mm
-LIGHTING:    rim light from the amber door sliver, cold tube overhead
-COMPOSITION: figure centred, door ahead, empty corridor behind him
+SUBJECT:   <IDENTITY LOCK>, seen from behind, walking away from camera
+ACTION:    walking steadily toward the far door, glancing up at the flickering tube
+CAMERA:    static — the camera does NOT follow him       LENS: 35mm
+LIGHTING:  rim light from the door sliver on his shoulders, face never visible
+COMPOSITION: figure centred and shrinking, empty corridor behind him
+MATERIALS: heavy jacket fabric, worn runner, keyring
 Seed: TBD · Файл: assets/ep001-sh05.png
 ```
 
-### sh06 — брелок на ручке
+### sh06 — брелок · REWATCH DETAIL
 ```text
-SUBJECT:     a small worn plastic fish keychain hanging on a door handle
-ACTION:      the keychain sways gently although there is no draught
-LOCATION:    white apartment door, number "46" in fresh paint
-CAMERA:      static
-LENS:        85mm macro
-LIGHTING:    warm from below, cold rim from above
+SUBJECT:   a small plastic fish keychain hanging on a brass door handle
+ACTION:    the keychain hangs still
+LOCATION:  white apartment door, "46" in fresh paint, faded burgundy leatherette
+CAMERA:    static                                       LENS: 100mm macro
+LIGHTING:  warm from below, cold rim from above
 COMPOSITION: handle and keychain in the lower third, the number 46 in the upper third
-MATERIALS:   cheap plastic rubbed white with age, small red split ring, leatherette door
-ATMOSPHERE:  an ordinary family object in a place it cannot be
-CONTINUITY:  ONE unique keychain for the whole series — same shape, wear and red ring every time
+MATERIALS: cheap plastic rubbed white with age, scratches, a small red split ring,
+           oxidised brass, quilted leatherette
+CONTINUITY: THERE IS NOTHING ELSE ON THE HANDLE — no hair tie, nothing.
+            One unique keychain for the whole series
 Seed: TBD · Файл: assets/ep001-sh06.png
 ```
 
-### sh07 — лицо, узнавание
+### sh07 — волос · EXTREME DETAIL
 ```text
-SUBJECT:     <IDENTITY LOCK Кирилл>
-ACTION:      recognising the object, one breath catching, saying nothing
-LOCATION:    dark corridor, door blurred behind him
-CAMERA:      static
-LENS:        85mm, shallow depth of field
-LIGHTING:    warm underlight from the door gap, key light off-frame
-COMPOSITION: face in the lower third, gaze angled down-forward
-ATMOSPHERE:  a man who has just been proven right and is not relieved by it
+SUBJECT:   a single long grey human hair lying at the base of a brass door handle
+ACTION:    the hair rests across the metal, dust hanging motionless in the air
+CAMERA:    static, 15 cm from the subject               LENS: 100mm macro
+LIGHTING:  hard backlight; the hair glows like a thread against dark metal
+COMPOSITION: the hair diagonal across frame, brass falling out of focus
+MATERIALS: micro-scratches in brass, floating dust motes, the natural kink of the hair
+ATMOSPHERE: an intimate, almost beautiful detail that becomes unpleasant on reflection
+CONTINUITY: the hair is always Vera's — long, grey, with a bend
 Seed: TBD · Файл: assets/ep001-sh07.png
 ```
 
-### sh08 — снятие брелока
+### sh08 — лицо, узнавание
 ```text
-SUBJECT:     a man's hand taking the fish keychain off the door handle
-ACTION:      the split ring catches, he pulls, the sharp edge scratches his palm
-LOCATION:    door handle, close
-CAMERA:      static
-LENS:        85mm macro
-LIGHTING:    hard warm key, sharp finger shadows
-COMPOSITION: hand diagonal across frame, handle in the right third
-CONTINUITY:  the scratch is on the LEFT palm and stays visible through EP03
+SUBJECT:   <IDENTITY LOCK>
+ACTION:    recognising something, one caught breath, saying nothing, not looking away
+CAMERA:    static                LENS: 85mm, very shallow depth of field
+LIGHTING:  hard side light from the door gap on the left; the right half of the face is pure
+           black with no fill; the visible eye stays lit
+COMPOSITION: face in the lower third, large empty space to the right
+MATERIALS: pores, three-day stubble, perspiration at the temple, individual eyelashes
+ATMOSPHERE: a man who has just been proven right and is not relieved by it
 Seed: TBD · Файл: assets/ep001-sh08.png
 ```
 
-### sh09 — ЦЕНА (ключевой кадр)
+### sh09 — снятие брелока
 ```text
-SUBJECT:     <IDENTITY LOCK Кирилл> in the near foreground, side-on, not turning around;
-             in the background the door of apartment 44 with a small brass nameplate
-ACTION:      the intercom panel beside the white door lights up by itself;
-             deep in frame the letters on the brass nameplate are going out one by one
-LOCATION:    ninth-floor corridor
-CAMERA:      static — the camera does not help the viewer notice
-LENS:        35mm, stopped down so BOTH planes stay readable
-LIGHTING:    green intercom glow on his cheek in front, only the corridor tube in the depth
+SUBJECT:   a man's hand pulling the fish keychain off the door handle
+ACTION:    the split ring catches, the skin over the knuckles stretches, the sharp edge
+           drags across the palm leaving a thin line
+CAMERA:    static                                       LENS: 100mm macro
+LIGHTING:  hard warm key, sharp finger shadows
+MATERIALS: palm lines, stretched skin over knuckles, brass, worn plastic
+CONTINUITY: the scratch is on the LEFT palm and stays visible through EP03
+Seed: TBD · Файл: assets/ep001-sh09.png
+```
+
+### sh10 — ЦЕНА · два кадра
+```text
+SUBJECT:   <IDENTITY LOCK> in the near foreground, side-on, not turning around;
+           in the depth of frame the door of apartment 44 with a small brass nameplate
+ACTION:    the intercom panel beside the white door lights up by itself
+CAMERA:    static — the camera does not help the viewer notice
+LENS:      35mm, stopped down so BOTH planes stay readable
+LIGHTING:  green intercom glow on the near cheek; only the corridor tube in the depth
+MATERIALS: engraved brass, grain of the painted door, dust
 COMPOSITION: man in the right third foreground, door 44 in the left third of the depth
-CONTINUITY:  nameplate reads "СУХОВЫ" at the start of the shot and is blank brass at the end;
-             blank in every corridor shot from EP02 onward
-NOTE:        собирается из двух генераций (буквы есть / букв нет) + маска перехода
-Seed: TBD · Файл: assets/ep001-sh09-a.png (с буквами), assets/ep001-sh09-b.png (без)
+CONTINUITY: plate reads "СУХОВЫ" in version A and is blank brass in version B
+Seed: TBD · Файлы: assets/ep001-sh10-a.png (с буквами) · assets/ep001-sh10-b.png (без)
 ```
 
-### sh10 — свет на лице
+### sh11 — свет на лице
 ```text
-SUBJECT:     <IDENTITY LOCK Кирилл>
-ACTION:      half a step forward, a horizontal band of warm light sliding across his eyes
-LOCATION:    in front of the door, door itself off-frame
-CAMERA:      static
-LENS:        85mm
-LIGHTING:    growing amber band from the widening door gap
-COMPOSITION: face centred, light band horizontal across the eyes
-Seed: TBD · Файл: assets/ep001-sh10.png
-```
-
-### sh11 — щель (POV)
-```text
-SUBJECT:     a two-centimetre gap of warm morning light between door and frame
-ACTION:      the edge of a kitchen table and morning light are just readable inside
-LOCATION:    threshold of apartment 46
-CAMERA:      POV, breathing very slightly
-LENS:        50mm
-LIGHTING:    amber #E3A857, blown-out edge
-COMPOSITION: vertical strip of light centred in the frame
-CONTINUITY:  it is ALWAYS morning inside 46, whatever the time outside
+SUBJECT:   <IDENTITY LOCK>
+ACTION:    a horizontal band of milk-white light rising across his eyes, pupils contracting,
+           half a step forward
+CAMERA:    static                                       LENS: 85mm
+LIGHTING:  growing warm band from a door opening two centimetres
+COMPOSITION: face centred, the light band horizontal across the eyes
 Seed: TBD · Файл: assets/ep001-sh11.png
 ```
 
-### sh12 — экран телефона
+### sh12 — щель · POV
 ```text
-SUBJECT:     a phone screen held in a man's hand, baby-monitor app
-ACTION:      a child's bed, duvet thrown back, the bed empty, night light on
-LOCATION:    dark corridor
-CAMERA:      static
-LENS:        85mm macro
-LIGHTING:    the screen is the only light source, cold on the fingers
-COMPOSITION: screen fills 70% of frame, app label at the top of the screen
-CONTINUITY:  identical app interface in every episode
-NOTE:        надпись "ДЕТСКАЯ · 00:46" рисуется в композе, а не генерацией
+SUBJECT:   a two-centimetre gap of warm morning light between door and frame
+ACTION:    inside: the edge of a kitchen table, an overexposed window,
+           a glass of milk with a clean untouched surface
+CAMERA:    POV, breathing less than one percent         LENS: 50mm
+LIGHTING:  milk-white 2700K, blown-out edge, everything else pure black
+COMPOSITION: a vertical strip of light centred in the frame
+MATERIALS: wooden door frame, tablecloth edge, glass
+CONTINUITY: it is ALWAYS morning inside 46; milk there is always fresh
 Seed: TBD · Файл: assets/ep001-sh12.png
 ```
 
-### sh13 — рука на ручке
+### sh13 — экран телефона · SILENCE
 ```text
-SUBJECT:     a man's hand closing on the door handle, knuckles whitening
-ACTION:      grip tightening
-LOCATION:    door 46
-CAMERA:      static
-LENS:        85mm
-LIGHTING:    warm gap below, cold above
-COMPOSITION: hand in the lower third, blank white door plane above it
-CONTINUITY:  the palm scratch from sh08 must be visible
+SUBJECT:   a phone screen held in a man's hand, a baby-monitor app view
+ACTION:    a child's bed, duvet thrown back, the bed empty, a night light on;
+           in the TOP RIGHT CORNER of the screen image, the edge of white fabric
+           in the nursery doorway
+CAMERA:    static                                       LENS: 100mm macro
+LIGHTING:  the screen is the only light source, cold on the fingers
+COMPOSITION: screen fills 70% of frame
+MATERIALS: fingerprints on the glass, pixel grid, skin of the fingers
+NOTE:      надпись «ДЕТСКАЯ · 00:46» рисуется в композе шрифтом PT Mono, а не генерацией
 Seed: TBD · Файл: assets/ep001-sh13.png
+```
+
+### sh14 — рука и резинка · СМЕНА СМЫСЛА
+```text
+SUBJECT:   a man's hand closing on a brass door handle, knuckles whitening
+ACTION:    the grip tightens; the handle does not turn
+LOCATION:  door 46. ON THE SAME HANDLE, BESIDE HIS FINGERS, HANGS A THIN CHILD'S HAIR TIE
+           WITH A SINGLE BEAD
+CAMERA:    static                                       LENS: 85mm
+LIGHTING:  warm gap below, cold above
+COMPOSITION: hand in the lower third, blank white door plane above
+MATERIALS: blanching skin, tendons, brass, elastic fabric of the hair tie, one plastic bead
+CONTINUITY: the palm scratch from sh09 must be visible; the hair tie was NOT there in sh06
+Seed: TBD · Файл: assets/ep001-sh14.png
 ```
 
 ---
 
 ## 2. Seedance — видео по шотам
 
-Промпт описывает **последовательность движения**, а не настроение.
+Промпт описывает последовательность движения и физику, а не настроение.
 
 ### sh01
 ```text
-SHOT: ep001-sc1-sh01
-MODEL: seedance
-INPUT IMAGE: assets/ep001-sh01.png
-DURATION: 2s
-ASPECT RATIO: 9:16
+SHOT: ep001-sc1-sh01 · INPUT: assets/ep001-sh01.png · DURATION: 2s · 9:16
 SUBJECT: an elevator button panel, no people
-ACTION: For the first half second nothing moves. Then the blank metal below the "9"
-        begins to bulge outward very slightly, as if pressed from behind. The shape of
-        a button forms. Only after the shape is complete does the number 46 light up red.
+ACTION: For the first half second nothing moves. Then the blank metal below the "9" begins to
+        bulge outward very slightly, as if pressed from behind. The shape of a button forms.
+        Only after the shape is complete does the number 46 light up in muted brick red.
 CAMERA MOTION: none, locked off
-ENVIRONMENT: interior elevator cabin, night
-PHYSICS: the metal deforms slowly and elastically, like thin sheet metal, not like rubber;
-         no sparks, no smoke, no debris
-LIGHTING: cold overhead stays constant; the red glow rises over 0.4 seconds and then holds steady
+PHYSICS: the metal deforms slowly and elastically like thin sheet metal, not like rubber;
+         no sparks, no smoke, no debris, no melting
+LIGHTING: the cold fluorescent stays constant; the red glow rises over 0.4 seconds and holds
 FACIAL BEHAVIOR: none
-START FRAME: blank metal below the nine
-END FRAME: the 46 button fully formed and glowing steadily
-CONTINUITY: the nine original buttons never change shape or position
-NEGATIVE CONSTRAINTS: no camera movement, no people, no text overlay, no sparks,
-                      no melting metal, no flicker of the other buttons
+START: blank metal · END: the 46 button formed and glowing steadily
+NEGATIVE: camera movement, people, text overlay, sparks, melting metal, flicker of other buttons
 ```
 
 ### sh02
 ```text
-SHOT: ep001-sc1-sh02
-INPUT IMAGE: assets/ep001-sh02.png · DURATION: 2s
-ACTION: The man stays completely still for the first half second. His eyes move down-left first.
-        Only after his eyes have moved does his head begin to turn. The turn is small,
-        about fifteen degrees, and stops.
+SHOT: ep001-sc1-sh02 · INPUT: assets/ep001-sh02.png · DURATION: 2s · 9:16
+ACTION: The man stays completely still for half a second. His eyes move down-left first.
+        Only after the eyes have moved does the head begin to turn, about fifteen degrees,
+        and stop. THE REFLECTION IN THE MIRROR REPEATS EACH MOVEMENT TWO FRAMES LATER
+        THAN THE MAN HIMSELF.
 CAMERA MOTION: none
-PHYSICS: the reflection in the scratched mirror follows his movement two frames late
-LIGHTING: constant
-FACIAL BEHAVIOR: no fear; the eyebrows do not rise; the jaw stays relaxed
-START FRAME: looking forward · END FRAME: looking at the panel
-CONTINUITY: facial identity, stubble, scar on the right eyebrow and jacket remain completely unchanged
-NEGATIVE CONSTRAINTS: no blinking loop, no head shake, no shoulder movement, no zoom
+PHYSICS: everything else in the mirror is a correct physical reflection; only the timing differs
+LIGHTING: constant; the right half of the face receives no fill and stays pure black
+FACIAL BEHAVIOR: no fear, eyebrows do not rise, jaw stays relaxed, one blink maximum
+START: looking forward · END: looking at the panel, reflection catching up
+CONTINUITY: facial identity, stubble, scar on right eyebrow and jacket completely unchanged
+NEGATIVE: head shake, shoulder movement, zoom, monster in the mirror, second person,
+          glowing eyes, distorted reflection
 ```
 
 ### sh03
 ```text
-SHOT: ep001-sc1-sh03
-INPUT IMAGE: assets/ep001-sh03.png · DURATION: 3s
+SHOT: ep001-sc1-sh03 · INPUT: assets/ep001-sh03.png · DURATION: 3s · 9:16
 ACTION: The finger stays two centimetres away and does not move closer. After one second the
-        red glow of the button begins to fade evenly to nothing over 0.8 seconds. One second
-        after the glow is gone, light from the opening doors enters the frame from the left.
-CAMERA MOTION: very slow push-in, no more than 8 percent of frame width across the full 3 seconds
-PHYSICS: the glow fades, it does not blink or stutter
-START FRAME: button lit, finger near · END FRAME: button dark, door light entering
-CONTINUITY: the finger never touches the panel
-NEGATIVE CONSTRAINTS: no hand shake, no button press, no flicker
+        red glow fades evenly to nothing over 0.8 seconds. One second later, light from the
+        opening doors enters the frame from the left.
+CAMERA MOTION: extremely slow push-in, no more than 4 percent of frame width across 3 seconds
+PHYSICS: the glow fades smoothly, it does not blink or stutter
+START: button lit · END: button dark, door light entering
+NEGATIVE: hand shake, button press, flicker, fast dolly
 ```
 
 ### sh04
 ```text
-SHOT: ep001-sc2-sh04
-INPUT IMAGE: assets/ep001-sh04.png · DURATION: 3s
-ACTION: The corridor is empty and still. At 1.4 seconds the fluorescent tube flickers once,
-        for two frames only, then returns to steady. The amber light under the far door widens
-        by a few millimetres and narrows again, slowly, like breathing.
+SHOT: ep001-sc2-sh04 · INPUT: assets/ep001-sh04.png · DURATION: 3s · 9:16
+ACTION: The corridor is empty and still. At 1.4 seconds the fluorescent tube stutters once
+        through its starter — two frames dark, then steady again. The milk-white light under
+        the far door widens by about a millimetre and narrows again, slowly, like breathing.
+        Dust in the tube light drifts almost imperceptibly.
 CAMERA MOTION: none
-PHYSICS: the light under the door moves smoothly, the flicker of the tube is instant
-START FRAME: corridor at rest · END FRAME: corridor at rest, light slightly wider
-NEGATIVE CONSTRAINTS: no people, no door opening, no camera movement, no dust particles storm
+PHYSICS: the light under the door moves smoothly; the tube flicker is instantaneous;
+         dust motes drift with air currents of a still room
+START: corridor at rest · END: corridor at rest
+NEGATIVE: people, figure appearing, door opening, camera movement, dust storm, fog
 ```
 
 ### sh05
 ```text
-SHOT: ep001-sc2-sh05
-INPUT IMAGE: assets/ep001-sh05.png · DURATION: 3s
+SHOT: ep001-sc2-sh05 · INPUT: assets/ep001-sh05.png · DURATION: 3s · 9:16
 ACTION: The man walks away from camera at an even pace, four steps. On the second step he
-        raises his eyes to the flickering tube above without stopping, then lowers them again.
-        The keyring on his hip swings in time with the steps.
-CAMERA MOTION: very slow pull-out, matching the walk so his size in frame stays almost constant
-PHYSICS: the keyring swings with real weight and lag, the jacket fabric shifts on the shoulders
-START FRAME: first step out of the lift · END FRAME: three metres from the door
+        raises his eyes to the flickering tube above without stopping, then lowers them.
+        The keyring on his hip swings in time with the steps. He becomes visibly smaller.
+CAMERA MOTION: none — the camera stays behind and does not follow
+PHYSICS: the keyring swings with real weight and lag; jacket fabric shifts on the shoulders;
+         perspective scale changes correctly as he moves away
+START: first step out of the lift · END: three metres from the door
 CONTINUITY: same jacket, same keyring, body proportions unchanged
-NEGATIVE CONSTRAINTS: no running, no turning around, no floating gait, no morphing legs
+NEGATIVE: running, turning around, floating gait, morphing legs, camera following
 ```
 
 ### sh06
 ```text
-SHOT: ep001-sc2-sh06
-INPUT IMAGE: assets/ep001-sh06.png · DURATION: 3s
+SHOT: ep001-sc2-sh06 · INPUT: assets/ep001-sh06.png · DURATION: 2.5s · 9:16
 ACTION: The keychain hangs still for one second, then swings twice — a small pendulum motion
-        that damps down naturally. Nothing else in the frame moves.
+        that damps down naturally and stops. Nothing else in frame moves.
 CAMERA MOTION: none
-PHYSICS: pendulum with a short period and visible damping; the door and handle stay rigid
-START FRAME: keychain still · END FRAME: keychain almost still again
-NEGATIVE CONSTRAINTS: no wind in the frame, no door movement, no hand entering
+PHYSICS: pendulum with a short period and visible damping; the door and handle stay rigid;
+         there is no visible air movement anywhere else in frame
+START: keychain still · END: keychain almost still again
+NEGATIVE: wind, door movement, hand entering, any additional object on the handle
 ```
 
 ### sh07
 ```text
-SHOT: ep001-sc3-sh07
-INPUT IMAGE: assets/ep001-sh07.png · DURATION: 3s
-ACTION: The face is still. At one second the chest lifts once with a caught breath and the
-        nostrils widen slightly. The eyes stay open. At two seconds the gaze lowers toward
-        the door handle. He does not speak.
+SHOT: ep001-sc2-sh07 · INPUT: assets/ep001-sh07.png · DURATION: 1.5s · 9:16
+SUBJECT: a single long grey hair on brass, extreme macro
+ACTION: The hair lies still for the first second. Then one end lifts about a millimetre and
+        settles again. The dust in the air does not move at all during this.
 CAMERA MOTION: none
-FACIAL BEHAVIOR: micro-expression only; no crying, no grimace, no mouth opening
-START FRAME: neutral · END FRAME: eyes lowered, decision made
-CONTINUITY: facial identity unchanged
-NEGATIVE CONSTRAINTS: no talking, no smile, no tears, no head tilt
+PHYSICS: the hair moves as a very light fibre would, but nothing else responds — there is no
+         air current in the frame
+START: hair at rest · END: hair displaced by one millimetre
+NEGATIVE: hair growing, hair crawling, insect, dust motion, camera movement, any face
 ```
 
 ### sh08
 ```text
-SHOT: ep001-sc3-sh08
-INPUT IMAGE: assets/ep001-sh08.png · DURATION: 3s
-ACTION: The fingers close on the split ring and pull. The ring catches on the handle for half
-        a second and resists. The hand pulls harder and the keychain comes free, the sharp edge
-        dragging across the palm. A thin line appears on the skin.
+SHOT: ep001-sc3-sh08 · INPUT: assets/ep001-sh08.png · DURATION: 3s · 9:16
+ACTION: The face is still. At one second the chest lifts once with a caught breath and the
+        nostrils widen slightly. The eyes stay open and do not blink until 2.4 seconds.
+        At two seconds the gaze lowers toward the door handle. He does not speak.
 CAMERA MOTION: none
-PHYSICS: the ring is rigid metal and does not bend; the resistance is visible before the release;
-         the skin deforms under the metal edge before the line appears
-START FRAME: fingers touching the ring · END FRAME: keychain in the fist, thin scratch on the palm
-NEGATIVE CONSTRAINTS: no blood spray, no extra fingers, no rubbery hand, no glow
+FACIAL BEHAVIOR: micro-expression only; no crying, no grimace, no mouth opening
+LIGHTING: the unlit half of the face stays completely black throughout
+START: neutral · END: eyes lowered, decision made
+NEGATIVE: talking, smiling, tears, head tilt, fill light appearing on the dark side
 ```
 
 ### sh09
 ```text
-SHOT: ep001-sc3-sh09
-INPUT IMAGE: assets/ep001-sh09-a.png · END REFERENCE: assets/ep001-sh09-b.png · DURATION: 3s
-ACTION: The man in the foreground stands still and does not turn around. The intercom panel
-        beside the door lights up by itself at 0.4 seconds. Starting at 1.0 second, deep in the
-        frame, the letters of the brass nameplate on door 44 go out one at a time from right to
-        left, each taking about a fifth of a second. By 2.4 seconds the plate is blank brass.
-        The man never reacts.
+SHOT: ep001-sc3-sh09 · INPUT: assets/ep001-sh09.png · DURATION: 3s · 9:16
+ACTION: The fingers close on the split ring and pull. The ring catches on the handle for half
+        a second and resists — the skin over the knuckles stretches visibly. The hand pulls
+        harder and the keychain comes free, the sharp edge dragging across the palm.
+        A thin line appears on the skin one moment after the contact, not during it.
 CAMERA MOTION: none
-PHYSICS: the letters do not fade as light; they simply stop being engraved, the surface becoming
-         smooth brass. No particles, no dissolve, no glow
-LIGHTING: green intercom glow appears on the near cheek; the corridor tube behind stays constant
-FACIAL BEHAVIOR: none — he is side-on and does not move
-START FRAME: nameplate reads fully · END FRAME: nameplate blank
-CONTINUITY: both planes stay in focus; the man's identity and jacket unchanged
-NEGATIVE CONSTRAINTS: no turning around, no camera push toward the nameplate, no sparkle,
-                      no dissolve effect, no text appearing anywhere else
+PHYSICS: the ring is rigid metal and does not bend; resistance is visible before release;
+         skin deforms under the metal edge before the line appears
+START: fingers touching the ring · END: keychain in the fist, thin scratch on the palm
+NEGATIVE: blood spray, extra fingers, rubbery hand, glow, bending metal
 ```
 
 ### sh10
 ```text
-SHOT: ep001-sc3-sh10
-INPUT IMAGE: assets/ep001-sh10.png · DURATION: 2s
-ACTION: A horizontal band of warm light appears on the lower part of his face and rises slowly
-        across his eyes as the door widens off-frame. His pupils contract. He shifts weight
-        forward, half a step, no more.
+SHOT: ep001-sc3-sh10 · INPUT: assets/ep001-sh10-a.png · END REFERENCE: assets/ep001-sh10-b.png
+DURATION: 3s · 9:16
+ACTION: The man in the foreground stands still and does not turn around. The intercom panel
+        beside the white door lights up by itself at 0.4 seconds. Starting at 1.0 second, deep
+        in the frame, the engraved letters on the brass nameplate of door 44 stop existing one
+        at a time, from right to left, each taking about a fifth of a second. The engraving does
+        not fade like light — the metal surface simply becomes smooth. By 2.4 seconds the plate
+        is blank brass. The man never reacts and never turns.
 CAMERA MOTION: none
-PHYSICS: the light band moves smoothly and evenly, matching a door opening two centimetres
-START FRAME: face in shadow · END FRAME: eyes lit, pupils narrowed
-NEGATIVE CONSTRAINTS: no full door opening, no strong flare, no speaking
+PHYSICS: no particles, no dissolve, no glow, no sparkle — only the disappearance of engraving
+LIGHTING: green intercom glow appears on the near cheek; the corridor tube behind stays constant
+FOCUS: both planes stay readable throughout; no focus pull toward the nameplate
+START: nameplate reads fully · END: nameplate blank
+NEGATIVE: turning around, camera push toward the nameplate, focus pull, sparkle, dissolve
+          effect, text appearing elsewhere, any figure in the corridor
 ```
 
 ### sh11
 ```text
-SHOT: ep001-sc4-sh11
-INPUT IMAGE: assets/ep001-sh11.png · DURATION: 3s
-ACTION: The strip of warm light is steady. At 1.6 seconds a small shadow crosses it from left
-        to right, quickly, at the height of a child. The strip returns to steady.
-CAMERA MOTION: POV breathing, less than one percent of frame
-PHYSICS: the shadow is soft-edged and fast, consistent with something passing a few metres inside
-START FRAME: empty strip · END FRAME: empty strip again
-NEGATIVE CONSTRAINTS: no face appearing, no door movement, no monster silhouette, no hand
+SHOT: ep001-sc3-sh11 · INPUT: assets/ep001-sh11.png · DURATION: 2s · 9:16
+ACTION: A horizontal band of warm light appears on the lower part of the face and rises slowly
+        across the eyes as the door widens off-frame. The pupils contract visibly.
+        He shifts his weight forward, half a step, no more.
+CAMERA MOTION: none
+PHYSICS: the light band moves smoothly and evenly, consistent with a door opening two centimetres
+START: face in shadow · END: eyes lit, pupils narrowed
+NEGATIVE: full door opening, strong flare, speaking, blinking during the pupil contraction
 ```
 
 ### sh12
 ```text
-SHOT: ep001-sc4-sh12
-INPUT IMAGE: assets/ep001-sh12.png · DURATION: 2s
-ACTION: The phone screen shows a still empty bed. At one second the camera feed refreshes:
-        the image stutters for two frames, the compression blocks visibly rebuild, and the bed
-        is still empty. Nothing else moves.
-CAMERA MOTION: none
-PHYSICS: digital refresh artefact only, no physical motion in the frame
-START FRAME: screen lit, bed empty · END FRAME: refreshed, bed still empty
-NEGATIVE CONSTRAINTS: no child appearing, no ghost, no glitch aesthetic, no hand movement
+SHOT: ep001-sc4-sh12 · INPUT: assets/ep001-sh12.png · DURATION: 3s · 9:16
+ACTION: The strip of warm light is steady. At 1.6 seconds a small soft-edged shadow crosses it
+        from left to right, quickly, at the height of a child, and is gone. The strip returns
+        to steady. The surface of the milk in the glass inside does not move.
+CAMERA MOTION: POV breathing, less than one percent of frame
+PHYSICS: the shadow is soft-edged and fast, consistent with something passing a few metres inside
+START: empty strip · END: empty strip again
+NEGATIVE: face appearing, door movement, monster silhouette, hand, eye in the gap
 ```
 
 ### sh13
 ```text
-SHOT: ep001-sc4-sh13
-INPUT IMAGE: assets/ep001-sh13.png · DURATION: 2s
-ACTION: The hand rests on the handle. Over 1.5 seconds the fingers tighten gradually and the
-        knuckles go pale. The handle does not turn.
+SHOT: ep001-sc4-sh13 · INPUT: assets/ep001-sh13.png · DURATION: 2s · 9:16
+ACTION: The phone screen shows a still empty bed. At one second the camera feed refreshes:
+        the image stutters for two frames, compression blocks visibly rebuild, and the bed is
+        still empty. The edge of white fabric in the doorway at the top right does not move.
 CAMERA MOTION: none
-PHYSICS: skin blanches under pressure, tendons lift on the back of the hand
-START FRAME: hand resting · END FRAME: grip tight, knuckles white
-CONTINUITY: the palm scratch from sh08 stays visible
-NEGATIVE CONSTRAINTS: no door opening, no turning of the handle, no extra fingers
+PHYSICS: digital refresh artefact only, no physical motion in the frame
+START: screen lit, bed empty · END: refreshed, bed still empty
+NEGATIVE: child appearing, ghost, figure moving, glitch aesthetic, hand movement, zoom
+```
+
+### sh14
+```text
+SHOT: ep001-sc4-sh14 · INPUT: assets/ep001-sh14.png · DURATION: 2s · 9:16
+ACTION: The hand rests on the handle. Over 1.5 seconds the fingers tighten gradually and the
+        knuckles go pale. The handle does not turn. The child's hair tie hanging beside the
+        fingers moves once, very slightly, from the pressure transmitted through the metal.
+CAMERA MOTION: none
+PHYSICS: skin blanches under pressure, tendons lift on the back of the hand;
+         the elastic hair tie behaves as light elastic fabric
+START: hand resting · END: grip tight, knuckles white
+CONTINUITY: the palm scratch from sh09 stays visible; the hair tie stays in frame the whole shot
+NEGATIVE: door opening, handle turning, extra fingers, the keychain reappearing
 ```
 
 ---
 
-## 3. Журнал попыток
+## 3. Порядок производства
+
+```
+1. Холодный тест: sh04, sh06, sh07, sh10-a/b  → 4 кадра + монтаж 12–15 сек
+2. Приёмка → остальные 11 мастер-кадров
+3. Приёмка всех 15 → генерация 14 клипов
+4. Сборка по EDIT.md
+```
+
+Ни один клип не генерируется, пока его мастер-кадр не принят.
+
+## 4. Журнал попыток
 
 | Шот | Версия | Что менял | Результат |
 |---|---|---|---|

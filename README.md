@@ -17,11 +17,12 @@ AI-native продакшн-система вертикального сериа�
 **Сериал**
 
 1. `bible/SERIES_BIBLE.md` — что это за сериал
-2. `bible/WORLD.md` — мир и правило «Дом отдаёт — дом стирает»
-3. `bible/STORY_RULES.md` — Story Engine и сетка по секундам
-4. `bible/SEASON_STRUCTURE.md` — почему 12 серий
-5. `season-01/EPISODE_MAP.md` — карта всех серий
-6. `season-01/episode-001/SCRIPT.md` — **сценарий первой серии**
+2. `bible/VISUAL_LANGUAGE.md` — **визуальный язык** (+ `COLOR_BIBLE`, `CAMERA_LANGUAGE`, `HORROR_LANGUAGE`, `SYMBOLISM`, `TYPOGRAPHY`, `SOUND_LANGUAGE`, `INTRO_SYSTEM`)
+3. `bible/WORLD.md` — мир и правило «Дом отдаёт — дом стирает»
+4. `bible/STORY_RULES.md` — Story Engine и сетка по секундам
+5. `bible/SEASON_STRUCTURE.md` — почему 12 серий
+6. `season-01/EPISODE_MAP.md` — карта всех серий
+7. `season-01/episode-001/SCRIPT.md` — **сценарий первой серии**
 
 **Исследование, на котором всё построено**
 

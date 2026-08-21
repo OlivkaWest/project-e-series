@@ -6,6 +6,7 @@
 | Episode | Script | Characters | Storyboard | Images | Video | Voice | Sound | Edit | QA |
 |---|---|---|---|---|---|---|---|---|---|
 | 01 | **APPROVED\*** | TODO | REVIEW | TODO | TODO | TODO | REVIEW | REVIEW | REVIEW |
+| INTRO | **REVIEW** | — | REVIEW | TODO | TODO | — | REVIEW | REVIEW | — |
 | 02 | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO |
 | 03 | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO |
 | 04 | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO |
@@ -25,6 +26,7 @@
 
 | # | Что | Статус |
 |---:|---|---|
+| 0 | Визуальное направление и заставка | **REVIEW** — 8 файлов библии, INTRO CONCEPT v1, EP01 пересобран |
 | 1 | Исследование → формат и концепция | **APPROVED** (с правкой «герой взрослый») |
 | 2 | Series Bible → архитектура сезона | **REVIEW** — 6 файлов написаны |
 | 3 | Карта всех серий | **REVIEW** — 12 серий расписаны |
