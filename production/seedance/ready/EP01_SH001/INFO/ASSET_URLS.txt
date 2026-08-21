@@ -1,0 +1,9 @@
+EP01_SH001 — исходники для папки UPLOAD/
+
+01_START_FRAME.png
+job  c791a9f4-63d9-4518-b625-4c1db5814165
+https://d8j0ntlcm91z4.cloudfront.net/user_2wC9fxqVl9PMYHtH6o6vf0HfQ8Y/hf_20260821_160032_c791a9f4-63d9-4518-b625-4c1db5814165.png
+
+02_END_FRAME.png
+job  b1fcec11-fc39-4905-a393-b3f80050a6ad
+https://d8j0ntlcm91z4.cloudfront.net/user_2wC9fxqVl9PMYHtH6o6vf0HfQ8Y/hf_20260821_151228_b1fcec11-fc39-4905-a393-b3f80050a6ad.png

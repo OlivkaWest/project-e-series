@@ -1,0 +1,106 @@
+FORMAT:
+Vertical 9:16 cinematic video. Photographic, not illustrative.
+
+DURATION:
+5 seconds.
+
+REFERENCE USAGE:
+@01_START_FRAME = the exact opening composition, framing, palette and surface
+condition. The first video frame must match it. Take from it: the flat undisturbed
+metal below the button column, the green painted plate, the oxidised brass rims,
+the blank enamel button faces, the fingerprints, the chipped paint, the dust.
+
+@02_END_FRAME = the exact final state of the metal at the end of the shot. Take
+from it: the shape, size and position of the rounded swelling in the plate below
+the lowest button, and the dull red-oxide glow inside it. Do not take framing
+changes from it; framing stays as in @01_START_FRAME.
+
+INITIAL FRAME:
+Identical to @01_START_FRAME. A vertical column of round buttons with oxidised
+brass rims sits in a worn green oil-painted metal plate. Every button face is
+smooth blank enamel. Below the lowest button the plate is flat, even and
+unbroken. Cold green fluorescent light from above. Nothing is glowing.
+
+ACTION TIMELINE:
+
+0.0-1.2 sec
+Absolute stillness. Nothing in the frame moves. No light change, no shimmer,
+no dust motion. The shot reads as a still photograph.
+
+1.2-2.6 sec
+In the flat metal below the lowest button, one shallow rounded swelling begins
+to rise, pressed outward from behind the plate. It grows slowly and evenly,
+the size of a button when it stops. The paint on its surface stretches and
+develops a fine crazing of hairline cracks as the metal deforms. The highlight
+running across the plate bends as the surface curves. No other part of the
+panel moves.
+
+2.6-4.0 sec
+The swelling stops growing and holds its final shape. A dull red-oxide light
+begins to rise inside it, from nothing to steady, spilling a few millimetres
+onto the metal around it. The glow does not pulse and does not flicker.
+
+4.0-5.0 sec
+Everything holds completely still. The swelling keeps its shape, the glow keeps
+its steady level. The final frame matches the state shown in @02_END_FRAME.
+
+CHARACTER PERFORMANCE:
+No character is present in this shot. No hand, no finger, no body part enters
+the frame at any point.
+
+CAMERA:
+Locked off on a tripod, perpendicular to the panel, macro. The camera does not
+move, pan, tilt, zoom, drift, breathe or reframe at any moment in the shot.
+Focal distance stays fixed; no focus pull.
+
+ENVIRONMENT:
+The interior of an old lift cabin at night. Only the panel is in frame.
+
+LIGHTING:
+One cold fluorescent source above, out of frame, giving the metal a green cast
+and lying evenly across the plate. It stays constant for the whole shot. The
+only light change anywhere in the frame is the red-oxide glow rising inside
+the swelling between 2.6 and 4.0 sec, and that glow is the sole source of warm
+colour in the frame.
+
+PHYSICS:
+The metal deforms as sheet metal deforms: the swelling rises smoothly from
+behind the plate, the surface curves, the specular highlight bends with the
+curvature, and the dried paint on top crazes into hairline cracks under the
+stretch. Brass rims and button faces are rigid and do not deform. Dust in the
+gaps stays where it is.
+
+FINAL STATE:
+The plate carries one rounded swelling below the lowest button, glowing steadily
+from within with dull red-oxide light. Everything else exactly as at 0.0 sec.
+
+CONTINUITY:
+The swelling appears only below the column of buttons, never beside it and never
+above it. The button faces stay smooth blank enamel throughout the shot. The
+count, spacing and position of the buttons do not change. The framing at 5.0 sec
+is identical to the framing at 0.0 sec.
+
+STRICT SURFACE LOCK:
+Preserve exactly the panel shown in the reference images. Do not reinterpret it.
+Do not alter: the green paint colour and its chipping pattern, the brass rim
+design, the button size and spacing, the fingerprint smears, the dust in the
+gaps, the framing, the focal length, the palette. Do not clean the panel, do not
+restore the paint, do not add gloss, do not beautify.
+
+VISUAL SYSTEM:
+Premium psychological horror. Editorial cinematic photography. Restrained,
+desaturated palette. Realistic aged materials. Controlled practical lighting
+with a single motivated source. Slight underexposure. Physically believable
+deformation. Minimal AI appearance.
+
+DO NOT:
+- Do not move the camera in any way.
+- Do not write, engrave, print or reveal any letters, digits or symbols
+  anywhere in the frame. The button faces stay blank. Numbers are added later
+  in compositing.
+- Do not let any hand, finger or person enter the frame.
+- Do not flicker, pulse or strobe the overhead light.
+- Do not add a second glowing button or a second swelling.
+- Do not add reflections of a room, a figure or a face in the metal.
+- Do not add on-screen text, watermarks, timecodes, film edge markings,
+  letterboxing or borders.
