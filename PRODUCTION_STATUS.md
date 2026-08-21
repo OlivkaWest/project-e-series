@@ -5,7 +5,7 @@
 
 | Episode | Script | Characters | Storyboard | Images | Video | Voice | Sound | Edit | QA |
 |---|---|---|---|---|---|---|---|---|---|
-| 01 | **APPROVED\*** | TODO | REVIEW | TODO | TODO | TODO | REVIEW | REVIEW | REVIEW |
+| 01 | **APPROVED\*** | REVIEW | REVIEW | TODO | TODO | TODO | REVIEW | REVIEW | REVIEW |
 | INTRO | **REVIEW** | — | REVIEW | TODO | TODO | — | REVIEW | REVIEW | — |
 | 02 | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO |
 | 03 | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO |
@@ -31,7 +31,7 @@
 | 2 | Series Bible → архитектура сезона | **REVIEW** — 6 файлов написаны |
 | 3 | Карта всех серий | **REVIEW** — 12 серий расписаны |
 | 4 | Полный сценарий EP01 | **REVIEW** — 10 документов написаны |
-| 5 | Персонажи и утверждение внешности | TODO |
+| 5 | Персонажи и утверждение внешности | **REVIEW** — пакеты написаны, сид выбирается |
 | 6 | Storyboard EP01 | частично: раскадровка описана, кадры не сгенерированы |
 | 7 | Master frames EP01 | TODO — нужны ключи API |
 | 8 | Seedance-промпты EP01 | написаны, ждут принятых мастер-кадров |
