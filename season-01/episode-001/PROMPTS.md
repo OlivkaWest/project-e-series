@@ -27,7 +27,7 @@ NEGATIVE: monster, creature, gore, jump scare, glowing eyes, plastic skin, airbr
           extra fingers, deformed hands
 ```
 
-### IDENTITY LOCK — Кирилл Радченко (черновик до CP5)
+### IDENTITY LOCK — Прохор Ветлугин (черновик до CP5)
 
 ```text
 29 year old man, eastern european, short dark brown hair, three-day stubble,
@@ -57,7 +57,7 @@ CONTINUITY: exactly nine original buttons, 46 always BELOW the nine
 Seed: TBD · Файл: assets/ep001-sh01.png
 ```
 
-### sh02 — Кирилл и зеркало · WRONG DETAIL
+### sh02 — Прохор и зеркало · WRONG DETAIL
 ```text
 SUBJECT:   <IDENTITY LOCK>, standing in a small elevator cabin beside a scratched mirror
 ACTION:    eyes moving down-left, head beginning to turn
@@ -174,7 +174,7 @@ LENS:      35mm, stopped down so BOTH planes stay readable
 LIGHTING:  green intercom glow on the near cheek; only the corridor tube in the depth
 MATERIALS: engraved brass, grain of the painted door, dust
 COMPOSITION: man in the right third foreground, door 44 in the left third of the depth
-CONTINUITY: plate reads "СУХОВЫ" in version A and is blank brass in version B
+CONTINUITY: plate reads "ПОСОШКОВЫ" in version A and is blank brass in version B
 Seed: TBD · Файлы: assets/ep001-sh10-a.png (с буквами) · assets/ep001-sh10-b.png (без)
 ```
 
@@ -445,6 +445,16 @@ NEGATIVE: door opening, handle turning, extra fingers, the keychain reappearing
 
 ## 4. Журнал попыток
 
-| Шот | Версия | Что менял | Результат |
-|---|---|---|---|
-| | | | |
+**Холодный тест v1 — 21.08.2026.** Модель `soul_2` (text2image_soul_v2), 1152×2048,
+style «General», enhance_prompt off.
+
+| Шот | Версия | Seed | Job ID | Результат |
+|---|---|---:|---|---|
+| sh04 коридор | v1 | 932055 | `0766db94-0479-4f85-98e6-087365eece53` | на приёмке |
+| sh06 брелок | v1 | 364660 | `383f0bb0-668c-414e-ba1b-3e1183fb50a1` | на приёмке |
+| sh07 волос | v1 | 346868 | `fd8716cd-d3d4-460a-bec2-9c9522c2fa1f` | на приёмке |
+| sh10-a цена | v1 | 967287 | `5dfdad32-95c2-4559-a033-4f714bda5d55` | на приёмке |
+
+> Файлы не скачаны в репозиторий: домен выдачи `d8j0ntlcm91z4.cloudfront.net`
+> закрыт политикой исходящего трафика этой сессии. Кадры доступны в галерее генерации.
+> Seed каждого принятого кадра переносится в этот журнал и больше не меняется.
