@@ -33,6 +33,26 @@
 **Вывод:** turnaround собирается только text-to-image с дословным locked-блоком,
 без референсной картинки. См. `docs/production-stack/VIDEO_ENGINES.md` §3-бис.
 
+### Turnaround v2 — 21.08.2026, на приёмке
+
+| Параметр | Значение |
+|---|---|
+| Job ID | `1ac61c5a-517e-448f-885c-061d2c8daa85` |
+| Seed | **753292** |
+| Модель | `soul_2`, 2048×1152, 16:9 |
+| `enhance_prompt` | **false** — промпт сохранён дословно, подтверждено в ответе API |
+| Состав | четыре ракурса в одном кадре: фас, 3/4, профиль, спина |
+
+Собран по методике character-sheet: **одна генерация вместо семи**. Лицо физически
+не может разойтись между панелями, потому что панели нарисованы одновременно.
+
+В промпт вошёл анти-ретушь модуль (`visible pores, natural asymmetry, no beauty filter,
+no AI-airbrushed look`) и отдельные запреты `no babyface`, `no model-like symmetrical
+features`, `no handsome idealized face` — прямо против искажений, которые дал прошлый батч.
+Нашивка заказана **пустой**: `completely blank embroidered patch bearing no text at all`.
+
+**После приёмки:** из листа делается Element, и все кадры EP01 и всё видео идут через него.
+
 ## 2. LOCKED-блок — вставляется в КАЖДЫЙ промпт дословно
 
 ```text
