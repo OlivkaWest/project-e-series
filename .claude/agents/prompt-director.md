@@ -36,6 +36,42 @@ INPUT · SUBJECT · INITIAL STATE · ACTION TIMELINE · CAMERA · PHYSICS ·
 ENVIRONMENT · LIGHTING · FACIAL BEHAVIOR · CONTINUITY · END STATE · NEGATIVE CONSTRAINTS
 ```
 
+## Два правила, выведенных из брака 21.08.2026
+
+### 1. Отрицание в негативе притягивает объект
+
+Диффузионная модель не понимает «нет» — она видит существительное. Чем подробнее
+перечисляешь запрещённое, тем стабильнее его получаешь.
+
+| Написали в негативе | Что пришло в кадр |
+|---|---|
+| `fish charm, keychain, anything hanging from the handle` | рыбка-брелок на цепочке, висящая на ручке |
+| `text, letters, numbers, signage` | объявления на стене, гравировка, коды |
+| `no scar on the left eyebrow` | шрам сместился к переносице |
+
+**Метод:** описывай позитивно то, что должно быть, а не перечисляй то, чего быть не должно.
+
+```
+ПЛОХО:   no keychain, no keys, no fish charm, nothing hanging from the handle
+ХОРОШО:  the brass is bare, plain and unadorned, entirely smooth and undecorated,
+         the lever hangs level and alone against the white paint
+
+ПЛОХО:   no text, no letters, no numbers, no signage, no posters
+ХОРОШО:  the wall surfaces are completely bare and uninterrupted from floor to ceiling
+```
+
+Негатив остаётся коротким и общим: люди, свечение, блики, рамка. Не каталог предметов.
+
+### 2. «Film grain» вызывает плёночную разметку
+
+Коды `RN7.2292` и `42 V 8Л:7 8`, которые лезли в кадр, — это **краевая маркировка плёнки**.
+Модель добросовестно рисовала то, что мы просили: плёночную фотографию целиком, вместе
+с бортом и кодом.
+
+**Метод:** зерно, halation и грейд **не заказываются в промпте**. Они постоянные для всего
+сериала (6 %, см. `bible/COLOR_BIBLE.md`) и накатываются на этапе обработки.
+В промпте остаётся только оптика, свет и фактура.
+
 ## Три запрета
 
 1. **Не называть чужие сериалы, фильмы, режиссёров и студии.** Стиль задаётся языком камеры, света, фактур и движения.
