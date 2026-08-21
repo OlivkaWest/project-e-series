@@ -100,3 +100,24 @@ ENVIRONMENT · LIGHTING · FACIAL BEHAVIOR · CONTINUITY · END STATE · NEGATIV
 
 Каждый принятый промпт с его seed и job id записывается в `PROMPTS.md` эпизода.
 Seed принятого кадра не меняется никогда.
+
+### 3. Служебное слово о камере становится предметом в кадре
+
+Выведено 21.08.2026 на эталоне коридора. В промпте стояло
+`camera on a tripod at chest height` — это описание точки съёмки, а не содержимого
+кадра. Модель нарисовала посреди коридора **фотоаппарат на штативе**.
+
+Правило то же, что и с негативом, только шире: **модель рисует каждое
+существительное, независимо от его роли в предложении.** Слова `tripod`, `camera`,
+`lens`, `crew`, `light stand` — это предметы, а не метаданные.
+
+Точка съёмки задаётся без техники:
+
+| Нельзя | Надо |
+|---|---|
+| `camera on a tripod at chest height` | `static locked-off view, eye level` |
+| `shot on a 35mm lens` | `wide angle, deep perspective` |
+| `handheld camera` | `unsteady framing, slight drift` |
+
+И тем же приёмом — утверждением — закрывается пустота кадра:
+`the corridor is deserted and the floor is clear along its whole length`.
