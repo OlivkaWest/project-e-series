@@ -1,27 +1,21 @@
 # IDENTITY LOCK — Прохор Ветлугин
 
-> ⚠️ **Точка невозврата.** После утверждения этот файл не меняется до конца сезона.
-> Любое изменение = визуальный разрыв сериала.
+> ⚠️ **Точка невозврата пройдена 21.08.2026.** Внешность утверждена владельцем.
+> Файл закрыт на изменения до конца сезона. Любая правка = визуальный разрыв сериала.
 
 ## 1. Канонический сид
 
 | Параметр | Значение |
 |---|---|
 | Модель | `soul_2` (text2image_soul_v2) |
-| Seed | **ожидает выбора владельца** — три кандидата ниже |
+| Seed | **753292** — turnaround v2, принят 21.08.2026 |
 | Разрешение | 1152×2048 |
 | Эталон | `references/hero-canonical.png` |
 
-### Кандидаты в канонический сид — прогон 21.08.2026
+### Отменённые кандидаты
 
-| Вариант | Seed | Job ID | Отличие промпта | Выбор |
-|---|---:|---|---|---|
-| A | **841891** | `6cccf614-c848-4eba-b6b3-e2d75021b841` | базовая формулировка | ⬜ |
-| B | **833286** | `9bed7ebb-40af-4658-b51d-9117b12e1743` | hard chiaroscuro, акцент на щетине | ⬜ |
-| C | **528046** | `c51bb514-11f3-41d6-931d-1d1ff1080581` | документальная подача, нашивка на куртке | ⬜ |
-
-После выбора: seed вписывается в таблицу выше, два других кандидата удаляются,
-файл закрывается на изменения до конца сезона.
+Три одиночных портрета (сиды 841891, 833286, 528046) отменены: turnaround собран
+с нуля по locked-блоку и заменил их. Выбор вслепую не потребовался.
 
 ### Неудачная попытка turnaround — 21.08.2026
 
@@ -33,7 +27,7 @@
 **Вывод:** turnaround собирается только text-to-image с дословным locked-блоком,
 без референсной картинки. См. `docs/production-stack/VIDEO_ENGINES.md` §3-бис.
 
-### Turnaround v2 — 21.08.2026, на приёмке
+### Turnaround v2 — 21.08.2026, **ПРИНЯТ**
 
 | Параметр | Значение |
 |---|---|
@@ -51,7 +45,32 @@ no AI-airbrushed look`) и отдельные запреты `no babyface`, `no 
 features`, `no handsome idealized face` — прямо против искажений, которые дал прошлый батч.
 Нашивка заказана **пустой**: `completely blank embroidered patch bearing no text at all`.
 
-**После приёмки:** из листа делается Element, и все кадры EP01 и всё видео идут через него.
+**Лист принят владельцем 21.08.2026.** Он становится эталоном: `references/hero-canonical.png`.
+
+### Расхождения принятого листа с исходным текстом — locked-блок приведён к факту
+
+Правило: **lock описывает то, что реально воспроизводится, а не то, что было написано.**
+Ниже — что изменено в блоке §2 после приёмки.
+
+| Что | Было в тексте | Что на принятом листе | Решение |
+|---|---|---|---|
+| Глаза | серо-зелёные | **серо-голубые**, холодные | блок исправлен по факту |
+| Волосы | 3 см, без пробора, растрёпаны | длиннее, зачёсаны назад, с укладкой | **длина и посадка приняты**, растрёпанность переведена в состояние сцены |
+| Шрам | через правую бровь | в 3/4 читается над бровью, в фас уходит к переносице | принят; в промптах усилена привязка `through the eyebrow, not across the nose bridge` |
+| Нашивка | пустая, на левой груди | **на спине, бежевая, с мусорным текстом** | ❌ брак, исправляется во всех последующих кадрах |
+
+### Три производственные поправки, обязательные для каждого кадра
+
+1. **Нашивка.** Модель поставила на спину крупную нашивку с нечитаемыми буквами.
+   В негатив каждого кадра с Прохором добавляется:
+   `patch on the back, back patch, embroidered lettering, any text on clothing`.
+   На груди нашивка допускается только пустой и мелкой.
+2. **Волосы — это состояние, а не идентичность.** На листе они уложены, потому что лист
+   студийный. В сериале Прохор в конце ночной смены: в промптах кадров добавляется
+   `hair dishevelled and flattened after a long shift, not styled, no product`.
+   Длина и линия роста остаются как на листе.
+3. **Кожа.** На листе лоб местами глянцевый. В кадрах серии усиливается `matte complexion,
+   no highlight blooms on the forehead` — блеск противоречит `COLOR_BIBLE`.
 
 ## 2. LOCKED-блок — вставляется в КАЖДЫЙ промпт дословно
 
@@ -59,13 +78,14 @@ features`, `no handsome idealized face` — прямо против искаже
 29 year old man, eastern european, 182cm lean wiry build,
 face: narrow elongated oval, high forehead, visible cheekbones,
       slight natural asymmetry with the left eye set 2mm higher than the right,
-eyes: grey-green, narrow set, heavy upper eyelids, dark shadows of chronic lack of sleep,
+eyes: grey-blue, cold, narrow set, heavy upper eyelids, dark shadows of chronic lack of sleep,
 nose: straight with a barely visible bridge bump in profile,
 lips: thin, upper thinner than lower, corners slightly down at rest,
 skin: desaturated, large visible pores on nose and cheeks, faint perspiration,
-hair: dark ash brown, short 3cm, no parting, slightly dishevelled,
+hair: dark brown, short at the sides, slightly longer on top and swept back off the high forehead,
 facial hair: constant three-day stubble,
-marks: a thin 2cm scar through the RIGHT eyebrow,
+marks: a thin 2cm scar running horizontally through the RIGHT eyebrow itself,
+       not across the nose bridge,
        scraped knuckles on the right hand,
        an old soldering burn scar on the left forearm,
 hands: broad palms, short nails with ingrained dirt, callus at the base of the index finger
