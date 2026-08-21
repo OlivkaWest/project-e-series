@@ -1,0 +1,10 @@
+yt-dlp==2026.6.9
+faster-whisper==1.2.0
+elevenlabs==2.18.0
+google-genai==1.48.0
+httpx==0.28.1
+pydantic==2.12.4
+python-dotenv==1.1.1
+ffmpeg-python==0.2.0
+Pillow==12.1.0
+rich==14.3.0

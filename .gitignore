@@ -234,3 +234,31 @@ __marimo__/
 # Системное
 .DS_Store
 Thumbs.db
+
+# --- production stack ---
+# Секреты
+.env
+.env.local
+*.key
+*.pem
+secrets/
+
+# Черновые рендеры и кэш — не коммитятся вовсе
+season-01/*/renders/_norm/
+season-01/*/renders/*-draft*
+**/_cache/
+**/_tmp/
+*.log
+
+# Модели faster-whisper скачиваются локально
+.cache/huggingface/
+models/
+
+# Виртуальное окружение
+.venv/
+venv/
+__pycache__/
+
+# Эталонные кадры лежат локально: хост lfs.github.com закрыт политикой удалённой сессии.
+# Владелец коммитит их со своей машины: git add -f season-01/*/assets/*.png
+season-01/*/assets/*.png
