@@ -1,0 +1,695 @@
+[
+  {
+    "language": "en",
+    "channel_input": "https://www.youtube.com/@TheLandofBoggs",
+    "data": {
+      "artistBio": null,
+      "avatar": [
+        {
+          "height": 900,
+          "url": "https://yt3.googleusercontent.com/LdCiNnUMVoQF771Veur8-tWn6CthlK0S2fUBobKqrNJtsXiJLsXxcKdwgKUn7KQNNp6feceO2Q=s900-c-k-c0x00ffffff-no-rj",
+          "width": 900
+        }
+      ],
+      "badges": [],
+      "banner": {
+        "desktop": [
+          {
+            "height": 175,
+            "url": "https://yt3.googleusercontent.com/Md16R_9vKDZ62tl5TAfsKfZHe5NWskfOTwk5zGLkSosXN2pENRNlWq9oFdi0ab3ahgzETXRoRw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1060
+          },
+          {
+            "height": 188,
+            "url": "https://yt3.googleusercontent.com/Md16R_9vKDZ62tl5TAfsKfZHe5NWskfOTwk5zGLkSosXN2pENRNlWq9oFdi0ab3ahgzETXRoRw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1138
+          },
+          {
+            "height": 283,
+            "url": "https://yt3.googleusercontent.com/Md16R_9vKDZ62tl5TAfsKfZHe5NWskfOTwk5zGLkSosXN2pENRNlWq9oFdi0ab3ahgzETXRoRw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1707
+          },
+          {
+            "height": 351,
+            "url": "https://yt3.googleusercontent.com/Md16R_9vKDZ62tl5TAfsKfZHe5NWskfOTwk5zGLkSosXN2pENRNlWq9oFdi0ab3ahgzETXRoRw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2120
+          },
+          {
+            "height": 377,
+            "url": "https://yt3.googleusercontent.com/Md16R_9vKDZ62tl5TAfsKfZHe5NWskfOTwk5zGLkSosXN2pENRNlWq9oFdi0ab3ahgzETXRoRw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2276
+          },
+          {
+            "height": 424,
+            "url": "https://yt3.googleusercontent.com/Md16R_9vKDZ62tl5TAfsKfZHe5NWskfOTwk5zGLkSosXN2pENRNlWq9oFdi0ab3ahgzETXRoRw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2560
+          }
+        ],
+        "mobile": [],
+        "tv": []
+      },
+      "canonicalBaseUrl": null,
+      "channelId": "UCz5osAvTYFKjb6Kjcep6vXA",
+      "country": "United States",
+      "description": "Welcome to The Land of Boggs, an animated series about two best friends, Boggo and Boe, learning to embrace the wondrous chaos that comes with growing up, as they weave in and out of trouble!\n",
+      "hasBusinessEmail": true,
+      "isFamilySafe": true,
+      "isVerified": false,
+      "isVerifiedArtist": false,
+      "joinedDate": "2021-04-15",
+      "joinedDateText": "Joined Apr 15, 2021",
+      "keywords": [
+        "animated shorts",
+        "animation",
+        "bogg",
+        "boggo",
+        "boggs",
+        "cartoon",
+        "comedy",
+        "funny",
+        "land of boggs",
+        "landofboggs",
+        "shorts",
+        "the land of boggs",
+        "thelandofboggs"
+      ],
+      "links": [
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcS8O050MNanPtAhqGqmxitdqoXVR7amjWYXcpB4PgugO3sulzmOlA-VLdzA0nZ4KXBGmopdnLdKP6q5vYmC8M-5RGLKwfXGWwOBWMy2p9zCTXkOaNAiriQuC2ui",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ6zsH457JkLppACESKMCaMpxu9fF-PJ5s1tRstfA4qJKTomdw-cUBt6Du6GwEIEFMbuEXSllFIXcgjxfqfqCQWsg1xdpeDtqotZSp1fGYsW6X8EUmz8VgJwtuy-A",
+              "width": 256
+            }
+          ],
+          "targetUrl": "http://landofboggs.dashery.com/",
+          "title": "Shop Boggs!"
+        },
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSfLSwm05yS0BK4Kb28e-NTcQAsNLQfDCkRW2BwGzQ_4QLgT3HvRwy5O9kLRnUU-QhzvJantOSGhq8NOQp7EHd_WEvUNR6WW1Pp0THXuSRzNiJgToeoCA",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRMnk5lytM1g9HJQSf7bM5Xfi4yFD5Vyri4jzLc1D4JUjmBYMab9mUK04YRfRwyHmDMutbz5OgS4cg_9Z2lEmyotPVb3TDyE7YkLlpC2ywK7bDnmpmQTRw",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://www.instagram.com/thelandofboggs/",
+          "title": "Instagram"
+        },
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTil9qRPKod7VzAZX5hcljGOgNm_7OH9ctUPIWDk6tsvCGucVCNpU42I4k2ABNB9C3Dcv2DTXTaPLHtE7s4M5O0dzX4RrA-amgItDD5R5YT_fInOg",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQKztzAFLM-Ht00NtZR3C_LPpwiMBXyfSbY3CevC9KOxibegrIjaqfvZtuasvcIjnxH9SHSWIC-D-hYkAagy33P_6rpJFiNR2iYp0UR5p99Y-NJcJ4",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://www.tiktok.com/@thelandofboggs",
+          "title": "TikTok"
+        },
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSxUwGjsJZApoUKonOfNzxpFkEMyf29jwvspkLH1CA-JP5Nx06tcApyuGcjdsPZWzHuoyTRot1jS2gOtE_pzWKSSaJg0t0MtrRw6u7ZcItl78fGxuhb",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQj6tFbIEZH6KkBEISjsbAGeqJk0h4_TtuseJEKTDKFj7cLXn9N9V5qe-N5r9QRJS0QYLqPUe6U800spJjOLJCjn8qQE-tbQGPjTE2PNKmCkI_gtwN2Aw",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://www.facebook.com/thelandofboggs",
+          "title": "Facebook"
+        },
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQK7k3s-qxS9cpdkPfEOmOkOXdKu1VZN0zWUHSS3xak2bS8unIRf4yxHVOLfh0kPYwqiCTwy5ZKndFoJwUpsA_-6wE8NdyjKLZU_Pr1VJa4",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTf9yve6lkyvp10XCacYsvAvWw5vO7s2u3rOz67PYwGx5MIxkR9hJzSivNhV2gKXxacXfJXKAhPBa5ceGpOoC9LzF5xUNYfxyMnBzx8KoR4Jw",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://onelink.to/adzk9j",
+          "title": "Boggs Dash Download!"
+        },
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcS1wLZRQgkooD5nDhVy7dS6NwlqkAnEb4P8v6zBS5rmkcQyRDZjXJNLdUoW18JiqlD94Qme40RSfC2HahXXmtOgrm9NqRP6q4d4zk_XVQM35Tl6LtGKJKKMrEfWDek6i-4J",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSo4jRr-ifzLYCOHyXimMJgliJTKqclpStGUU5UiyxOF18QDNLQyhfa7WigcWDi4kfMjjObFk_IDCHA4ZBlgVQJtNBgjqSrM98TwqtJjBydCBFvWcm5yMbyLKan9MnmT-pptQ",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://www.buzzfeedanimationlab.com/",
+          "title": "BuzzFeed Animation Lab"
+        }
+      ],
+      "stats": {
+        "subscribers": 9810000,
+        "subscribersText": "9.81M subscribers",
+        "videos": 726,
+        "videosText": null,
+        "views": 14056282116
+      },
+      "title": "The Land Of Boggs",
+      "username": "@TheLandofBoggs"
+    }
+  },
+  {
+    "language": "en",
+    "channel_input": "https://www.youtube.com/@CatDogDiary-6868",
+    "data": {
+      "artistBio": null,
+      "avatar": [
+        {
+          "height": 900,
+          "url": "https://yt3.googleusercontent.com/iwg-QQ06z3lHZv8VCIxJ-DsLM3aHT2U0oCx65VxWjT-Kw02bjIuxaVEJlwiiOUnck1S_uOlwXLc=s900-c-k-c0x00ffffff-no-rj",
+          "width": 900
+        }
+      ],
+      "badges": [],
+      "banner": {
+        "desktop": [
+          {
+            "height": 175,
+            "url": "https://yt3.googleusercontent.com/w6OAS-yktmc-6pH3EzG81jJtiTakZUKpa3LEfZlLHJ2jrWOmQVT35jCDGNhI8klvxv_INLuQNA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1060
+          },
+          {
+            "height": 188,
+            "url": "https://yt3.googleusercontent.com/w6OAS-yktmc-6pH3EzG81jJtiTakZUKpa3LEfZlLHJ2jrWOmQVT35jCDGNhI8klvxv_INLuQNA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1138
+          },
+          {
+            "height": 283,
+            "url": "https://yt3.googleusercontent.com/w6OAS-yktmc-6pH3EzG81jJtiTakZUKpa3LEfZlLHJ2jrWOmQVT35jCDGNhI8klvxv_INLuQNA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1707
+          },
+          {
+            "height": 351,
+            "url": "https://yt3.googleusercontent.com/w6OAS-yktmc-6pH3EzG81jJtiTakZUKpa3LEfZlLHJ2jrWOmQVT35jCDGNhI8klvxv_INLuQNA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2120
+          },
+          {
+            "height": 377,
+            "url": "https://yt3.googleusercontent.com/w6OAS-yktmc-6pH3EzG81jJtiTakZUKpa3LEfZlLHJ2jrWOmQVT35jCDGNhI8klvxv_INLuQNA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2276
+          },
+          {
+            "height": 424,
+            "url": "https://yt3.googleusercontent.com/w6OAS-yktmc-6pH3EzG81jJtiTakZUKpa3LEfZlLHJ2jrWOmQVT35jCDGNhI8klvxv_INLuQNA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2560
+          }
+        ],
+        "mobile": [],
+        "tv": []
+      },
+      "canonicalBaseUrl": null,
+      "channelId": "UCmzO97ypyUKqA1pGEAzmmGA",
+      "country": "United States",
+      "description": "Hi everyone! Welcome to Cat Dog Diary!\n\nIf you love cute, funny, and heartwarming moments of cats and dogs, you're in the right place! Here, we capture the adorable, silly, and unexpected adventures of our furry friends. From playful kittens and loyal puppies to hilarious pet challenges and touching rescue stories, there's always something exciting happening!\n\nWe put a lot of love and effort into creating these videos, and we hope they bring you joy, laughter, and happiness. Your support means everything to us! So, if you enjoy our content, please like, comment, share, and subscribe to help our channel grow.\n\nJoin us on this pawsome journey, and let's celebrate the wonderful world of cats and dogs together 💕\n",
+      "hasBusinessEmail": false,
+      "isFamilySafe": true,
+      "isVerified": false,
+      "isVerifiedArtist": false,
+      "joinedDate": "2025-03-18",
+      "joinedDateText": "Joined Mar 18, 2025",
+      "keywords": [
+        "Cat",
+        "Dog",
+        "Kitten",
+        "Puppy",
+        "Pets",
+        "Cute kittens",
+        "funny pets",
+        "cute pets",
+        "dog and cat videos",
+        "funny dog videos",
+        "funny cat videos",
+        "cute dog videos",
+        "cute cat videos",
+        "adorable pets",
+        "Golden Retriever",
+        "Lovely cat",
+        "pet cat",
+        "可愛い猫",
+        "子猫"
+      ],
+      "links": [],
+      "stats": {
+        "subscribers": 29500,
+        "subscribersText": "29.5K subscribers",
+        "videos": 383,
+        "videosText": null,
+        "views": 24299234
+      },
+      "title": "Cat Dog Diary",
+      "username": "@CatDogDiary-6868"
+    }
+  },
+  {
+    "language": "en",
+    "channel_input": "https://www.youtube.com/@ViglooOfficial",
+    "data": {
+      "artistBio": null,
+      "avatar": [
+        {
+          "height": 900,
+          "url": "https://yt3.googleusercontent.com/i4XgJy77dqo9UVnE09UK7IpeIyrk-arc4u3UBYY_klfbjGJGVO_GTwkmYIYtge2z8ywEWXkfZ18=s900-c-k-c0x00ffffff-no-rj",
+          "width": 900
+        }
+      ],
+      "badges": [],
+      "banner": {
+        "desktop": [
+          {
+            "height": 175,
+            "url": "https://yt3.googleusercontent.com/U4N9HSi14dgXgqtlhNtp-xtqh6vn2fbBG3jfy6Dj7fV4ZdrSRyijuNMnPOqOLXcX6OC_pqwL_ko=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1060
+          },
+          {
+            "height": 188,
+            "url": "https://yt3.googleusercontent.com/U4N9HSi14dgXgqtlhNtp-xtqh6vn2fbBG3jfy6Dj7fV4ZdrSRyijuNMnPOqOLXcX6OC_pqwL_ko=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1138
+          },
+          {
+            "height": 283,
+            "url": "https://yt3.googleusercontent.com/U4N9HSi14dgXgqtlhNtp-xtqh6vn2fbBG3jfy6Dj7fV4ZdrSRyijuNMnPOqOLXcX6OC_pqwL_ko=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1707
+          },
+          {
+            "height": 351,
+            "url": "https://yt3.googleusercontent.com/U4N9HSi14dgXgqtlhNtp-xtqh6vn2fbBG3jfy6Dj7fV4ZdrSRyijuNMnPOqOLXcX6OC_pqwL_ko=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2120
+          },
+          {
+            "height": 377,
+            "url": "https://yt3.googleusercontent.com/U4N9HSi14dgXgqtlhNtp-xtqh6vn2fbBG3jfy6Dj7fV4ZdrSRyijuNMnPOqOLXcX6OC_pqwL_ko=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2276
+          },
+          {
+            "height": 424,
+            "url": "https://yt3.googleusercontent.com/U4N9HSi14dgXgqtlhNtp-xtqh6vn2fbBG3jfy6Dj7fV4ZdrSRyijuNMnPOqOLXcX6OC_pqwL_ko=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2560
+          }
+        ],
+        "mobile": [],
+        "tv": []
+      },
+      "canonicalBaseUrl": null,
+      "channelId": "UC3Lerw1TSnj5WgG8RX6g-Kg",
+      "country": "United States",
+      "description": "Official Channel of Vigloo - Premiere Short Dramas.\nEnjoy Short Dramas anytime, anywhere!\n\n",
+      "hasBusinessEmail": true,
+      "isFamilySafe": true,
+      "isVerified": false,
+      "isVerifiedArtist": false,
+      "joinedDate": "2024-06-04",
+      "joinedDateText": "Joined Jun 4, 2024",
+      "keywords": [
+        "vigloo",
+        "shortdrama",
+        "short drama",
+        "drama",
+        "kdrama",
+        "korean drama",
+        "reelshort",
+        "dramabox",
+        "freemovie",
+        "dramabox"
+      ],
+      "links": [
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQkYjZIHmQ0bWcg4MCR0OnEKZmF2TrPABmLu3n3e5Lzy14wuPd6J1Od66VP1z1ViQCxI_-AEyiIWIYioXyhSDVqHvc-8hfLXKnMRKvV_eD2PlaMS1ycNA",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQkzoczeLTDHfYMJIfu5Fy7n9mYfp1OSr8RrZzdRwdlzssQLf5XCKmI72qA3m8oVmoDhBs8ESIwpjHweKmQO8opDZUXjZASmpOdzvty1-UukKo6y_U4dhM",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://vigloo.onelink.me/SrIM/enytb",
+          "title": "Download Vigloo"
+        },
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRB0s6izIKcc25zq4XcedVYfQLtGCkUrasmu6myhAH-_5cw_AwYZ1ahFpiOsjPVtoZbW6XF-a29SlNRVxczFp21q5YM4eqhg09w4EWy9QlHYbSnMQ",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTR-AWNPkq1jS5a_WH-XoKBZjNDpKdjDj9RAjHnr9xFy9QlQ321Bs9AreE_wjOeE9Z5b_sunuFQIWc01BW-aA2q549zM7hoiYOpE0hvOyY3wttzZss",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://www.vigloo.com",
+          "title": "Official Website"
+        },
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSfLSwm05yS0BK4Kb28e-NTcQAsNLQfDCkRW2BwGzQ_4QLgT3HvRwy5O9kLRnUU-QhzvJantOSGhq8NOQp7EHd_WEvUNR6WW1Pp0THXuSRzNiJgToeoCA",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRMnk5lytM1g9HJQSf7bM5Xfi4yFD5Vyri4jzLc1D4JUjmBYMab9mUK04YRfRwyHmDMutbz5OgS4cg_9Z2lEmyotPVb3TDyE7YkLlpC2ywK7bDnmpmQTRw",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://www.instagram.com/vigloo_official",
+          "title": "Official Instagram"
+        },
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRWqlhT6ZzwM-539mnCWGpJre3bvF8NUo-ydcjelTaFqJqZzVhkzAZM0Tet9lhOvg16d6-pXxlwr4GpEXIFXEjbtKUo1X2l9OUjZCc1_MRKxiUE_M0",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQOIumvWj-GTPEXp7jq9dMwp1W0qDFJg295TwBpa7K7VQ96GzVGaM5sOddtfkqmNoZnX6JIyxZ0Hc6MkoFsC1nlkIloNLkhPoE_0Z3IknelayyRTCmB",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://vigloo-blog.com/",
+          "title": "Official Blog"
+        }
+      ],
+      "stats": {
+        "subscribers": 649000,
+        "subscribersText": "649K subscribers",
+        "videos": 649,
+        "videosText": null,
+        "views": 10266722
+      },
+      "title": "Vigloo - Premiere Short Dramas",
+      "username": "@ViglooOfficial"
+    }
+  },
+  {
+    "language": "ru",
+    "channel_input": "https://www.youtube.com/@yandextaxi",
+    "data": {
+      "artistBio": null,
+      "avatar": [
+        {
+          "height": 900,
+          "url": "https://yt3.googleusercontent.com/f9y4wowfVQ2zkWCCYlfJzEx-BYF3Q1OUnCDXhVAie6O3iwKQ7eqyiawIIZebgw3y-lwCnUOG-g=s900-c-k-c0x00ffffff-no-rj",
+          "width": 900
+        }
+      ],
+      "badges": [],
+      "banner": {
+        "desktop": [
+          {
+            "height": 175,
+            "url": "https://yt3.googleusercontent.com/NyZN4l4DAMr2JJqha5ZGs25UkqQAE59Z3Lt-YAK-mb0ZGE0Lvb8HP275o2XRhqhSbduiCIkr=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1060
+          },
+          {
+            "height": 188,
+            "url": "https://yt3.googleusercontent.com/NyZN4l4DAMr2JJqha5ZGs25UkqQAE59Z3Lt-YAK-mb0ZGE0Lvb8HP275o2XRhqhSbduiCIkr=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1138
+          },
+          {
+            "height": 283,
+            "url": "https://yt3.googleusercontent.com/NyZN4l4DAMr2JJqha5ZGs25UkqQAE59Z3Lt-YAK-mb0ZGE0Lvb8HP275o2XRhqhSbduiCIkr=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1707
+          },
+          {
+            "height": 351,
+            "url": "https://yt3.googleusercontent.com/NyZN4l4DAMr2JJqha5ZGs25UkqQAE59Z3Lt-YAK-mb0ZGE0Lvb8HP275o2XRhqhSbduiCIkr=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2120
+          },
+          {
+            "height": 377,
+            "url": "https://yt3.googleusercontent.com/NyZN4l4DAMr2JJqha5ZGs25UkqQAE59Z3Lt-YAK-mb0ZGE0Lvb8HP275o2XRhqhSbduiCIkr=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2276
+          },
+          {
+            "height": 424,
+            "url": "https://yt3.googleusercontent.com/NyZN4l4DAMr2JJqha5ZGs25UkqQAE59Z3Lt-YAK-mb0ZGE0Lvb8HP275o2XRhqhSbduiCIkr=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2560
+          }
+        ],
+        "mobile": [],
+        "tv": []
+      },
+      "canonicalBaseUrl": null,
+      "channelId": "UCWAI8QZnLTlRegsTEaobXSQ",
+      "country": "Россия",
+      "description": "Яндекс Go — мобильное приложение на базе Яндекс.Такси. Оно помогает быстро передвигаться по городу с помощью заказа такси, каршеринга или расписания общественного транспорта, заказывать еду и продукты с быстрой доставкой, отправлять документы и грузы. Сервис работает более чем в 300 крупных городах России, Беларуси, Молдовы, Армении, Грузии, Кыргызстана, Казахстана, Литвы, Сербии, Узбекистана.\n\nРКН: https://www.gosuslugi.ru/snet/679f52259a0fbc408bde9402\n",
+      "hasBusinessEmail": false,
+      "isFamilySafe": true,
+      "isVerified": false,
+      "isVerifiedArtist": false,
+      "joinedDateText": "Дата регистрации: 27 июн. 2017 г.",
+      "keywords": [
+        "yandextaxi",
+        "яндекс такси",
+        "yandex taxi",
+        "яндекстакси",
+        "Яндекс.Такси",
+        "Яндекс Такси",
+        "такси"
+      ],
+      "links": [
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTx3vna2nxpqWeaIuXLlIIq5uP-dXiqo61Y4IwEdLLwaA2RrBCrbHViQMSlGOPdl-BNISIH63d4OtxOob-c-IJqFF34K04zG1Lo_U2nXs4cwU8",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTCY4VLnsFkhKOp7mFzn-plVs0j6dd1TRUfxjx5SSP1-PiSm8ZYqTQBtLWXdOrOs7bK4GfttbUQUuYiWG6nuUEZrJ50Ee9rSYo8gxT3vDIkrzdp",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://go.yandex.ru",
+          "title": "Яндекс Go"
+        },
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTdvbyvUaLxJGd3OhUdHPuNfSM5zxei3E4WacUHB8cDOh8Wxs2v_L5X4TbVxiE3ORJXP0SO7eFZn2lO6hosjz9MFTah3jIbt1DO_ps",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRO2Owz2ZFd3KNmCtzDpXQz9kS27V6eDvR9TgBws-noLyg34sI9R1562IOKY334s9LCaIJOXZglhNlEt5iMx5EG9Ulk6dVpGewt7D3u",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://vk.com/yandexgo",
+          "title": "ВКонтакте"
+        }
+      ],
+      "stats": {
+        "subscribersText": null,
+        "videos": 227,
+        "videosText": null,
+        "views": 218364365
+      },
+      "title": "Яндекс Go",
+      "username": "@yandextaxi"
+    }
+  },
+  {
+    "language": "ru",
+    "channel_input": "https://www.youtube.com/@Al-sEriesSS",
+    "data": {
+      "artistBio": null,
+      "avatar": [
+        {
+          "height": 900,
+          "url": "https://yt3.googleusercontent.com/-PCnPUlmpsWtGs_ClDqKKqY4NIIkoI01GZKg6KKo9aPXCQhent5K0dsQYVEgAhB5UK5rYLaEqH4=s900-c-k-c0x00ffffff-no-rj",
+          "width": 900
+        }
+      ],
+      "badges": [],
+      "banner": {
+        "desktop": [
+          {
+            "height": 175,
+            "url": "https://yt3.googleusercontent.com/UbgiLmDlTPtuNMGwHGEAIHj0ggyPNCaol5XX44MKsuJnzUpRNlfZ0h78NFn3WlhwgIewmWXcow=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1060
+          },
+          {
+            "height": 188,
+            "url": "https://yt3.googleusercontent.com/UbgiLmDlTPtuNMGwHGEAIHj0ggyPNCaol5XX44MKsuJnzUpRNlfZ0h78NFn3WlhwgIewmWXcow=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1138
+          },
+          {
+            "height": 283,
+            "url": "https://yt3.googleusercontent.com/UbgiLmDlTPtuNMGwHGEAIHj0ggyPNCaol5XX44MKsuJnzUpRNlfZ0h78NFn3WlhwgIewmWXcow=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1707
+          },
+          {
+            "height": 351,
+            "url": "https://yt3.googleusercontent.com/UbgiLmDlTPtuNMGwHGEAIHj0ggyPNCaol5XX44MKsuJnzUpRNlfZ0h78NFn3WlhwgIewmWXcow=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2120
+          },
+          {
+            "height": 377,
+            "url": "https://yt3.googleusercontent.com/UbgiLmDlTPtuNMGwHGEAIHj0ggyPNCaol5XX44MKsuJnzUpRNlfZ0h78NFn3WlhwgIewmWXcow=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2276
+          },
+          {
+            "height": 424,
+            "url": "https://yt3.googleusercontent.com/UbgiLmDlTPtuNMGwHGEAIHj0ggyPNCaol5XX44MKsuJnzUpRNlfZ0h78NFn3WlhwgIewmWXcow=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2560
+          }
+        ],
+        "mobile": [],
+        "tv": []
+      },
+      "canonicalBaseUrl": null,
+      "channelId": "UC3jiA7oD33682xW2T4AzbOQ",
+      "country": null,
+      "description": "ИИ Сериалы (AI Series) 📺✨\nКанал, где режиссером, сценаристом и оператором выступает нейросеть. Смотри уникальные сгенерированные шоу, мини-эпизоды и кино-эксперименты. Кино будущего уже в твоей ленте! Подписывайся и смотри первым 🚀\n",
+      "hasBusinessEmail": true,
+      "isFamilySafe": true,
+      "isVerified": false,
+      "isVerifiedArtist": false,
+      "joinedDateText": "Дата регистрации: 29 апр. 2026 г.",
+      "keywords": [],
+      "links": [
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRDYw8hPwhEf_vwOpBygZb90cVG-xdXCJxKZIoavrp3Uk2LQ3m_34BNsp28Nirtua9yDquNiYft7CuHiwJfEAFhh1OOirQVzfJb",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRKfa98dI223kbDWkhxLzWuPnq61V9NAUzsbfnoXGdlGDujlgyI7AblrUS9XVHWn8p3awjLsYu7dI1P-jVdZczlqL8xacEgseRz_A",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://t.me/sufferingggggg",
+          "title": "Связь со мной в телеграмм "
+        },
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSlqg8fV1mJsanFK6X6qLEiWNe6bxdaBiExGhL_hK0uFAvdoRlE4p5_-vupFAtwAC-JhKHU1AMll-T-d4Bc8Cz2j5A7LvPRP5a9JQ",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTWh63aNzim6ZaFyfcH63h4KqAe1NKKzPBrI9iFnH8IKQ0DW07H2yeSLdyp83FJBV1yo7fNIsa6EdW0GjuSBFSWQ1_Rwb-7iFPCnd8",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://vk.ru/sweettoys24",
+          "title": "VK"
+        }
+      ],
+      "stats": {
+        "subscribersText": null,
+        "videos": 8,
+        "videosText": null,
+        "views": 6587
+      },
+      "title": "ИИ Сериалы (AI Series)",
+      "username": "@Al-sEriesSS"
+    }
+  },
+  {
+    "language": "ru",
+    "channel_input": "https://www.youtube.com/@Animatic-i1d",
+    "data": {
+      "artistBio": null,
+      "avatar": [
+        {
+          "height": 900,
+          "url": "https://yt3.googleusercontent.com/cCRp59NThYv7a0XfNbb1LVQYNAxpaaB0NFaAbVMogHc7WPKdB34d7i1QJMatduVJGOqaQZ148Q=s900-c-k-c0x00ffffff-no-rj",
+          "width": 900
+        }
+      ],
+      "badges": [],
+      "banner": {
+        "desktop": [],
+        "mobile": [],
+        "tv": []
+      },
+      "canonicalBaseUrl": null,
+      "channelId": "UCT3jceRhMKzrnjjVgW3VKXA",
+      "country": null,
+      "description": "",
+      "hasBusinessEmail": false,
+      "isFamilySafe": true,
+      "isVerified": false,
+      "isVerifiedArtist": false,
+      "joinedDateText": "Дата регистрации: 16 окт. 2023 г.",
+      "keywords": [],
+      "links": [
+        {
+          "icon": [
+            {
+              "height": 16,
+              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRDYw8hPwhEf_vwOpBygZb90cVG-xdXCJxKZIoavrp3Uk2LQ3m_34BNsp28Nirtua9yDquNiYft7CuHiwJfEAFhh1OOirQVzfJb",
+              "width": 16
+            },
+            {
+              "height": 256,
+              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRKfa98dI223kbDWkhxLzWuPnq61V9NAUzsbfnoXGdlGDujlgyI7AblrUS9XVHWn8p3awjLsYu7dI1P-jVdZczlqL8xacEgseRz_A",
+              "width": 256
+            }
+          ],
+          "targetUrl": "https://t.me/+HjKAZl2BlM05N2Zk",
+          "title": "ТГ Канал:"
+        }
+      ],
+      "stats": {
+        "subscribersText": null,
+        "videos": 37,
+        "videosText": null,
+        "views": 424711
+      },
+      "title": "Аниматик",
+      "username": "@Animatic-i1d"
+    }
+  }
+]

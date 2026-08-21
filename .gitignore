@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- project-e-series ---
+.env
+.env.local
+
+# Тяжёлые медиа-исходники и черновые рендеры
+*.mp4
+*.mov
+*.wav
+*.aiff
+*.psd
+*.aep
+*.prproj
+!output/**/*.mp4
+
+# Системное
+.DS_Store
+Thumbs.db
