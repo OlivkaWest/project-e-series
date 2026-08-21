@@ -56,7 +56,7 @@ features`, `no handsome idealized face` — прямо против искаже
 |---|---|---|---|
 | Глаза | серо-зелёные | **серо-голубые**, холодные | блок исправлен по факту |
 | Волосы | 3 см, без пробора, растрёпаны | длиннее, зачёсаны назад, с укладкой | **длина и посадка приняты**, растрёпанность переведена в состояние сцены |
-| Шрам | через правую бровь | в 3/4 читается над бровью, в фас уходит к переносице | принят; в промптах усилена привязка `through the eyebrow, not across the nose bridge` |
+| Шрам | через правую бровь | ложится **над** правой бровью, по надбровной дуге | блок исправлен по факту 21.08.2026, см. ниже |
 | Нашивка | пустая, на левой груди | **на спине, бежевая, с мусорным текстом** | ❌ брак, исправляется во всех последующих кадрах |
 
 ### Три производственные поправки, обязательные для каждого кадра
@@ -84,12 +84,23 @@ lips: thin, upper thinner than lower, corners slightly down at rest,
 skin: desaturated, large visible pores on nose and cheeks, faint perspiration,
 hair: dark brown, short at the sides, slightly longer on top and swept back off the high forehead,
 facial hair: constant three-day stubble,
-marks: a thin 2cm scar running horizontally through the RIGHT eyebrow itself,
-       not across the nose bridge,
+marks: a thin 2cm scar lying horizontally along the RIGHT brow ridge,
+       just above the eyebrow, not across the nose bridge,
        scraped knuckles on the right hand,
        an old soldering burn scar on the left forearm,
 hands: broad palms, short nails with ingrained dirt, callus at the base of the index finger
 ```
+
+### Поправка о шраме — 21.08.2026
+
+Три генерации подряд — принятый turnaround и обе версии sh02 — поставили рубец
+**над** правой бровью, по надбровной дуге, а не сквозь волоски брови. Сторона,
+длина и горизонталь воспроизводятся устойчиво; расходится только высота, около
+сантиметра, и на вертикальном экране эта разница не читается.
+
+Блок приведён к факту по тому же правилу, по которому раньше был исправлен цвет
+глаз: **lock описывает то, что реально воспроизводится, а не то, что было написано.**
+Опознавательный признак сохранён целиком — тонкий горизонтальный рубец справа.
 
 ## 3. Неизменяемо
 
@@ -129,7 +140,7 @@ keyring with 6 keys on the RIGHT hip
 | `beard, clean shaven` | `constant three-day stubble, never longer, never shaved` |
 | `blue eyes, brown eyes` | `eyes grey-blue and cold` |
 | `long hair, parted hair` | `short at the sides, slightly longer on top, swept back, no parting` |
-| `scar on the left eyebrow` | `a thin 2cm scar through the RIGHT eyebrow itself` |
+| `scar on the left eyebrow` | `a thin 2cm scar along the RIGHT brow ridge` |
 | `plastic skin, airbrushed, beauty retouching` | `matte, dry, visibly porous skin, natural asymmetry` |
 | `smiling` | `mouth closed, corners of the lips slightly down at rest` |
 | `glowing eyes` | `eyes lit only by the lamp present in the scene` |
@@ -146,7 +157,7 @@ keyring with 6 keys on the RIGHT hip
 
 - [ ] Расстояние между глазами и разница высот совпадают с эталоном
 - [ ] Горбинка носа читается в профиль
-- [ ] Шрам на **правой** брови на месте
+- [ ] Шрам на **правой** надбровной дуге на месте, горизонтальный, тонкий
 - [ ] Щетина трёхдневная, не больше и не меньше
 - [ ] Волосы по принятому листу: короче по бокам, длиннее сверху, зачёсаны назад, без пробора
 - [ ] Куртка с нашивкой на левой груди, ключи на правом бедре
