@@ -432,13 +432,94 @@ NEGATIVE: door opening, handle turning, extra fingers, the keychain reappearing
 
 ---
 
+## 2-бис. Правило текста в кадре
+
+**Генерация не пишет текст. Никогда.**
+
+Любые буквы и цифры, которые должны читаться — латунная табличка, список жильцов, номер
+квартиры, домофонное табло, интерфейс телефона, — рисуются в композе шрифтами из
+`bible/TYPOGRAPHY.md` поверх сгенерированной поверхности.
+
+В промпт вместо текста идёт описание носителя: «a small engraved brass nameplate, the engraving
+illegible at this distance», «a blank enamel plate», «a sheet of paper under scratched glass».
+В негатив каждого промпта обязательно: `text, letters, numbers, signage, watermark, caption`.
+
+Исключение — номер «46» на двери: он крупный, простой и генерируется приемлемо,
+но проверяется на каждой генерации отдельно.
+
+## 2-тер. Эталонные ассеты (генерируются один раз, дальше только переиспользуются)
+
+| Ассет | Файл | Наследуют |
+|---|---|---|
+| Дверь 46 целиком | `assets/ref-door46.png` | sh06, sh07, sh09, sh11, sh12, sh13, sh14 |
+| Дверная ручка крупно | `assets/ref-handle.png` | sh06, sh07, sh09, sh14 |
+| Панель лифта | `assets/ref-panel.png` | sh01, sh03 |
+| Коридор целиком | `assets/ref-corridor.png` | sh04, sh05, sh10 |
+
+Правило: кадры, входящие в одну локацию, генерируются **с эталона как reference-медиа**,
+а не с нуля по тексту. Иначе в каждом кадре получается другая ручка.
+
 ## 3. Порядок производства
 
 ```
-1. Холодный тест: sh04, sh06, sh07, sh10-a/b  → 4 кадра + монтаж 12–15 сек
+0. ЭТАЛОНЫ:  ref-door46, ref-handle, ref-panel, ref-corridor   ← добавлено после теста v1
+1. Холодный тест v2: sh04, sh06, sh07, sh10-a/b с эталонов
 2. Приёмка → остальные 11 мастер-кадров
 3. Приёмка всех 15 → генерация 14 клипов
 4. Сборка по EDIT.md
+```
+
+## 3-бис. Исправленные промпты для прогона v2
+
+### sh04 — коридор (правка света)
+Заменить в промпте два фрагмента:
+
+```text
+БЫЛО:  a plain white door with a narrow milk-white sliver of warm light spilling out from underneath it
+СТАЛО: a plain closed white door, completely dark around its frame, with a single narrow
+       milk-white strip of warm light visible ONLY along the very bottom edge, two centimetres high;
+       the door frame itself is not glowing and there is no light around its sides or top
+
+БЫЛО:  Lit by a single fluorescent ceiling tube in the middle of the corridor, cold green cast
+СТАЛО: Lit by a single old fluorescent tube in the middle of the corridor, cold neutral white
+       with a slight green cast, no orange or red glow anywhere in the frame
+```
+Добавить в негатив: `glowing door frame, portal, orange light, red light, warm ceiling lamp`.
+
+### sh06 — брелок (правка цвета и номера)
+```text
+БЫЛО:  covered in faded burgundy quilted leatherette, and the number 46 is painted on it in fresh white paint
+СТАЛО: covered in heavily faded, dusty, desaturated burgundy leatherette, closer to dull brown-red
+       than to true red; the number 46 is painted in small white figures, fully visible with clear
+       space around them, occupying no more than one eighth of the frame height
+```
+Добавить: `the only saturated colour in the frame is the small red split ring of the keychain`.
+
+### sh07 — волос (главная правка)
+```text
+БЫЛО:  A single long grey human hair lying across the base of an oxidised brass door handle
+СТАЛО: Exactly ONE single long grey human hair, one strand only, lying loosely across the base
+       of an oxidised brass door handle. There is no lock of hair, no bundle, no cut strands —
+       one thin isolated hair and nothing else on the metal
+```
+Добавить в негатив: `lock of hair, bundle of hair, hair strands, wig, cut hair, many hairs, fur`.
+
+### sh10-a — цена (полная переработка)
+```text
+Photorealistic cinematic still, vertical 9:16, deep focus.
+FOREGROUND, right third, very close to camera: the shoulder, jaw and cheek of a 29 year old
+man in a dark navy utility work jacket, seen strictly in profile, facing along the corridor and
+away from camera. His eyes are NOT visible. Half of his face is in complete darkness with no fill
+light. Faint green light from an intercom panel just off frame touches only his cheekbone.
+BACKGROUND, left third, five metres away and clearly readable: an apartment door with a small
+engraved brass nameplate; the engraving is illegible at this distance.
+The corridor has institutional green oil paint to chest height, faded whitewash above,
+lit by one cold fluorescent tube far behind him.
+35mm lens, stopped down, both planes sharp, locked-off tripod, no focus pull.
+Desaturated institutional palette, natural skin pores, faint perspiration, fine film grain.
+NEGATIVE: glowing eyes, green eyes, luminous pupils, eye contact with camera, text, letters,
+numbers, caption, watermark, signage, second person, monster, glitch, lens flare,
+shallow depth of field, blurred background.
 ```
 
 Ни один клип не генерируется, пока его мастер-кадр не принят.
@@ -450,10 +531,37 @@ style «General», enhance_prompt off.
 
 | Шот | Версия | Seed | Job ID | Результат |
 |---|---|---:|---|---|
-| sh04 коридор | v1 | 932055 | `0766db94-0479-4f85-98e6-087365eece53` | на приёмке |
-| sh06 брелок | v1 | 364660 | `383f0bb0-668c-414e-ba1b-3e1183fb50a1` | на приёмке |
-| sh07 волос | v1 | 346868 | `fd8716cd-d3d4-460a-bec2-9c9522c2fa1f` | на приёмке |
-| sh10-a цена | v1 | 967287 | `5dfdad32-95c2-4559-a033-4f714bda5d55` | на приёмке |
+| sh04 коридор | v1 | 932055 | `0766db94-0479-4f85-98e6-087365eece53` | 🟨 почти принят, две правки света |
+| sh06 брелок | v1 | 364660 | `383f0bb0-668c-414e-ba1b-3e1183fb50a1` | 🟨 лучший кадр теста, две правки |
+| sh07 волос | v1 | 346868 | `fd8716cd-d3d4-460a-bec2-9c9522c2fa1f` | 🟥 переделать: прядь вместо одного волоса |
+| sh10-a цена | v1 | 967287 | `5dfdad32-95c2-4559-a033-4f714bda5d55` | 🟥 переделать: светящиеся глаза, мусорный текст, нет глубины |
+
+### Разбор теста v1
+
+**sh04 — коридор.** Попадание по палитре, симметрии и фактуре. Два нарушения:
+свет идёт по всему периметру двери и читается как портал, хотя по библии это узкая полоса
+только снизу; потолочная лампа даёт оранжево-красное свечение, хотя у нас холодная
+люминесцентная трубка, а красный обязан иметь сюжетный источник.
+
+**sh06 — брелок.** Лучший кадр теста: дерматин, потёртая латунь, вытертая до белизны рыбка,
+красное как единственный акцент. Правки: дверь слишком насыщенная — нужен выцветший бордовый
+`#6E3B3B`, сейчас она почти красная и спорит с правилом редкого красного; номер «46» обрезан
+верхом кадра, должен читаться целиком в верхней трети и быть мельче.
+
+**sh07 — волос.** Свет, чёрный фон и макро-фактура отличные, но в кадре **прядь**, а не один
+волос. Прядь читается как отрезанные волосы — это чужой, более дешёвый символ. Нужен ровно
+один волос: мотив построен на том, что материя сохранила от человека минимум.
+
+**sh10-a — цена.** Отклонён по трём причинам: **светящиеся зелёные глаза** — прямой запрет
+библии, дешёвый хоррор; **мусорный текст поверх кадра**; отсутствие глубины — дверь с табличкой
+оказалась на переднем плане вплотную к герою, хотя приём требует читаемого второго плана далеко
+позади. Плюс лицо освещено фронтально, а нужна половина в чистом чёрном.
+
+**Сквозная проблема.** В трёх кадрах три разные дверные ручки. До следующего прогона нужен
+эталон: одна дверь 46 и одна ручка, от которых наследуются все остальные кадры.
+
+**Вывод про текст.** Модель не пишет кириллицу: на табличке получилась абракадабра,
+плюс модель самовольно добавила надпись поверх кадра. Правило зафиксировано ниже.
 
 > Файлы не скачаны в репозиторий: домен выдачи `d8j0ntlcm91z4.cloudfront.net`
 > закрыт политикой исходящего трафика этой сессии. Кадры доступны в галерее генерации.
