@@ -94,7 +94,8 @@ hands: broad palms, short nails with ingrained dirt, callus at the base of the i
 ## 3. Неизменяемо
 
 Форма головы и лица · разрез и цвет глаз · асимметрия глаз · горбинка носа ·
-линия губ · длина волос 3 см · постоянная трёхдневная щетина · **шрам через правую бровь** ·
+линия губ · посадка волос по принятому листу · постоянная трёхдневная щетина ·
+**шрам через правую бровь** ·
 рост и пропорции · сбитые костяшки правой руки.
 
 ## 4. Изменяемо
@@ -114,14 +115,32 @@ grey cotton t-shirt underneath, dark jeans, worn brown work boots,
 keyring with 6 keys on the RIGHT hip
 ```
 
-## 6. Негативный промпт персонажа
+## 6. Как задаётся идентичность в промпте
 
-```text
-different face, face morphing, inconsistent features, younger man, older man,
-beard, clean shaven, long hair, parted hair, blue eyes, brown eyes,
-scar on the left eyebrow, muscular build, plastic skin, airbrushed skin,
-beauty retouching, smiling, glowing eyes, extra fingers, deformed hands
-```
+**Негативного списка у персонажа больше нет.** Он снят 21.08.2026 по итогам пяти
+прогонов эталонов: каждое существительное, оставленное в негативе, модель рисовала
+в кадре. Правила — `.claude/agents/prompt-director.md`.
+
+Всё, чего в лице быть не должно, формулируется утверждением о том, что там есть.
+Таблица перевода обязательна к применению:
+
+| Было в негативе | Стало утверждением |
+|---|---|
+| `beard, clean shaven` | `constant three-day stubble, never longer, never shaved` |
+| `blue eyes, brown eyes` | `eyes grey-blue and cold` |
+| `long hair, parted hair` | `short at the sides, slightly longer on top, swept back, no parting` |
+| `scar on the left eyebrow` | `a thin 2cm scar through the RIGHT eyebrow itself` |
+| `plastic skin, airbrushed, beauty retouching` | `matte, dry, visibly porous skin, natural asymmetry` |
+| `smiling` | `mouth closed, corners of the lips slightly down at rest` |
+| `glowing eyes` | `eyes lit only by the lamp present in the scene` |
+| `younger man, older man` | `29 years old` |
+| `muscular build` | `lean wiry build, 182cm` |
+| `patch on the back, embroidered lettering` | `one small blank patch on the left chest, everywhere else the cloth is plain unmarked fabric` |
+| `extra fingers, deformed hands` | `broad palms, five fingers, short nails with ingrained dirt` |
+
+Первая строка любого промпта с Прохором:
+`the same person as in the reference sheet, the same face in every feature`,
+дальше LOCKED-блок §2 дословно.
 
 ## 7. Проверка перед приёмкой кадра
 
@@ -129,6 +148,6 @@ beauty retouching, smiling, glowing eyes, extra fingers, deformed hands
 - [ ] Горбинка носа читается в профиль
 - [ ] Шрам на **правой** брови на месте
 - [ ] Щетина трёхдневная, не больше и не меньше
-- [ ] Волосы 3 см, без пробора
+- [ ] Волосы по принятому листу: короче по бокам, длиннее сверху, зачёсаны назад, без пробора
 - [ ] Куртка с нашивкой на левой груди, ключи на правом бедре
 - [ ] Кожа с порами, без ретуши
