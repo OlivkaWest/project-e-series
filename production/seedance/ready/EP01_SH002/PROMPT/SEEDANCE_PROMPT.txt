@@ -1,0 +1,112 @@
+FORMAT:
+Vertical 9:16 cinematic video. Photographic, not illustrative.
+
+DURATION:
+5 seconds.
+
+REFERENCE USAGE:
+@01_START_FRAME = the exact opening composition, framing, palette, lighting and
+pose. The first video frame must match it: the man in the right third, the
+clouded scratched mirror filling the left third, institutional green painted
+cabin walls, one lamp behind a yellowed diffuser on his left, the right half of
+his face falling away into shadow.
+
+@02_PROHOR_IDENTITY = facial and body identity ONLY. Take from it: the shape of
+the head and face, the set and colour of the eyes, the nose, the mouth, the skin
+texture, the age, the stubble, the build. Do not take from it the pose, the
+framing, the studio background, the lighting, or the patch sewn on the back of
+the jacket.
+
+INITIAL STATE:
+The man stands still inside a small lift cabin at night, facing the camera, eyes
+front, mouth closed. His reflection is held in the clouded mirror beside him,
+seen from the side. Nothing moves.
+
+ACTION TIMELINE:
+
+0.0-1.0 sec
+Absolute stillness. Head, shoulders and torso completely fixed. He breathes
+once, shallowly. Nothing else in the frame moves.
+
+1.0-1.8 sec
+His eyes alone move downward, toward the panel below and to his left. His head
+does not move at all. His shoulders do not move. Only the eyes.
+About a tenth of a second AFTER his eyes move, the eyes of his reflection in the
+mirror move down as well. The reflection is always a beat behind him, never
+simultaneous.
+
+1.8-3.4 sec
+His head begins a slow, even turn to his left, toward the panel. The turn is
+small, about twenty degrees, and continuous. His body stays where it is.
+Again the reflection starts its turn about a tenth of a second later than he
+does, and finishes about a tenth of a second later, so the two movements never
+line up.
+
+3.4-5.0 sec
+His head stops. He holds, looking down and left, mouth closed. The reflection
+completes its own turn a fraction later and then holds too. Everything settles
+into stillness. The lamp does not flicker.
+
+CHARACTER PERFORMANCE:
+Exhausted, controlled, closed. No fear on the face, no widened eyes, no raised
+brows, no open mouth. The performance is entirely in the delay of the eyes and
+the slowness of the turn. He does not react to the reflection and does not look
+at it.
+
+CAMERA:
+Locked off on a tripod at eye level. The camera does not move, pan, tilt, zoom,
+drift, breathe or reframe at any point. No focus pull.
+
+ENVIRONMENT:
+The interior of an old lift cabin at night. Institutional green oil paint,
+chipped. A clouded mirror scratched with fine lines on the wall to his left.
+
+LIGHTING:
+One lamp behind a yellowed plastic diffuser, low and close to the wall on his
+left, is the only light source. It rakes across the left side of his face. The
+right half of his face, from the ridge of the nose to the right ear, stays in
+deep shadow with almost no detail. The light level does not change during the
+shot.
+
+PHYSICS:
+The mirror obeys mirror geometry: the reflection shows the same man from the
+side, reversed, and its movement matches his in direction and amount. The only
+departure from physics is the timing: the reflection is consistently late.
+Cloth folds naturally at the collar as the head turns. Hair does not move.
+
+FINAL STATE:
+He looks down and to his left, still. The reflection has caught up and is still
+as well. Framing identical to 0.0 sec.
+
+CONTINUITY:
+Dark navy work jacket over a grey t-shirt, one small blank patch on the left
+chest, plain unbroken cloth across the back and shoulders. Hair dishevelled and
+flattened after a night shift. Nobody else is in the cabin: the mirror holds one
+reflection and it belongs to him.
+
+STRICT IDENTITY LOCK:
+Do not reinterpret the character. Preserve exactly the facial identity shown in
+@02_PROHOR_IDENTITY: facial structure, head shape, eyes, nose, mouth, skin
+texture, pores, age, hair, three-day stubble, body type, proportions, clothing.
+Do not beautify. Do not rejuvenate. Do not smooth the skin. Do not replace him
+with a similar-looking person. He is one specific 29 year old man and he must
+stay that man for the whole five seconds.
+
+VISUAL SYSTEM:
+Premium psychological horror. Editorial cinematic photography. Restrained,
+desaturated palette. Realistic skin and materials. Controlled practical
+lighting from one motivated source. Slight underexposure. Believable human
+movement. Minimal AI appearance.
+
+DO NOT:
+- Do not move the camera in any way.
+- Do not let the reflection move at the same moment he does.
+- Do not have the reflection do anything he does not do.
+- Do not show a second person, a face in the mirror that is not his, or a figure
+  behind him.
+- Do not show his back or the back of his jacket at any point.
+- Do not add any letters, digits or symbols anywhere in the frame.
+- Do not flicker or pulse the lamp.
+- Do not open his mouth, widen his eyes or raise his brows.
+- Do not add on-screen text, watermarks, timecodes, film edge markings,
+  letterboxing or borders.

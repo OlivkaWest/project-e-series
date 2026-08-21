@@ -1,0 +1,104 @@
+FORMAT:
+Vertical 9:16 cinematic video. Photographic, not illustrative.
+
+DURATION:
+5 seconds.
+
+REFERENCE USAGE:
+@01_START_FRAME = the exact opening composition and surface condition: the green
+oil-painted lift panel, the column of brass-rimmed blank buttons, the rounded
+swelling in the metal below the column glowing with dull red-oxide light, the
+fingerprints, the chipped paint, the dust in the gaps. The first video frame
+must match it. No hand is present in it and no hand is present at 0.0 sec.
+
+@02_END_FRAME = the state at the end of the shot: a man's index finger held in
+the air a clear two centimetres short of the metal, touching nothing, with a
+visible gap of air between the fingertip and the panel, and the glow inside the
+swelling faded almost to nothing.
+
+INITIAL STATE:
+The panel alone, exactly as in @01_START_FRAME. The swelling below the button
+column glows steadily with dull red-oxide light. Nothing moves.
+
+ACTION TIMELINE:
+
+0.0-0.8 sec
+Stillness. The panel does not move. The glow holds steady.
+
+0.8-2.2 sec
+A man's index finger enters the frame slowly from the left. It is a broad
+working hand: short nail with ingrained dirt, a torn hangnail beside it, dry
+creased skin. The finger moves toward the swelling at an even, unhurried pace.
+
+2.2-3.0 sec
+The finger stops in the air, two centimetres short of the metal. It touches
+nothing. Between the fingertip and the panel there is a clear open gap of air,
+wide enough to see the green metal continuing behind it, and a soft shadow of
+the fingertip falls on the paint. The finger holds there, completely still.
+
+3.0-4.2 sec
+Without being touched, the glow inside the swelling fades on its own: from
+steady, through dim, to nothing. It fades smoothly, without flickering or
+pulsing. The finger stays exactly where it is and does not advance.
+
+4.2-5.0 sec
+The swelling is dark. From the left edge of the frame a widening blade of pale
+cold light falls across the panel and grows, as lift doors part somewhere beyond
+the frame. The finger remains motionless in the air. Nothing else happens.
+
+CHARACTER PERFORMANCE:
+Only a hand is in frame. No face, no body, no shoulder. The hand is steady, not
+trembling; it stops with intent, not hesitation.
+
+CAMERA:
+A very slow push-in toward the panel across the whole five seconds, so gradual
+it is barely perceptible: the frame grows by about four percent in total. No
+pan, no tilt, no roll, no focus pull, no handheld shake. The panel stays centred
+throughout.
+
+ENVIRONMENT:
+The interior of an old lift cabin at night. Only the panel and the approaching
+hand are in frame.
+
+LIGHTING:
+Cold green fluorescent light from above lies across the metal for the whole
+shot. The red-oxide glow inside the swelling is the only warm colour, and it
+disappears between 3.0 and 4.2 sec. From 4.2 sec a widening blade of pale cold
+light enters from the left. No other light changes.
+
+PHYSICS:
+The finger casts a real soft shadow on the panel that grows sharper as it comes
+closer, and that shadow never merges with the fingertip, because the finger
+never arrives at the surface. Skin creases at the knuckle as the finger extends.
+The metal, the brass rims and the button faces are rigid and do not deform.
+
+FINAL STATE:
+Finger held motionless in the air two centimetres from the dark, no longer
+glowing swelling; cold light entering from the left.
+
+CONTINUITY:
+The finger never touches the panel. The house opens by itself; the man does not
+press anything. The button faces stay smooth blank enamel throughout. The
+swelling stays below the column of buttons and does not move or change shape.
+
+STRICT SURFACE LOCK:
+Preserve exactly the panel shown in the reference images: the green paint colour
+and its chipping pattern, the brass rim design, the button size and spacing, the
+fingerprint smears, the dust in the gaps. Do not clean it, restore it, add gloss
+or beautify it.
+
+VISUAL SYSTEM:
+Premium psychological horror. Editorial cinematic photography. Restrained,
+desaturated palette. Realistic aged materials and working skin. Controlled
+practical lighting. Slight underexposure. Minimal AI appearance.
+
+DO NOT:
+- Do not let the finger touch, press or brush the panel or any button.
+- Do not close the gap of air between the fingertip and the metal.
+- Do not light up any button in the column.
+- Do not write, engrave or reveal any letters, digits or symbols anywhere.
+  The button faces stay blank; numbers are added later in compositing.
+- Do not show a face, a body or a second hand.
+- Do not pan, tilt, shake or crash-zoom; the push-in stays almost invisible.
+- Do not add on-screen text, watermarks, timecodes, film edge markings,
+  letterboxing or borders.
