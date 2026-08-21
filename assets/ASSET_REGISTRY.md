@@ -1,0 +1,56 @@
+# ASSET REGISTRY — источник правды
+
+Обновлено 21.08.2026. Всё, чего нет в этой таблице, в производство не идёт.
+
+## Персонажи
+
+| Asset ID | Имя | Тип | Статус | Job | Где используется |
+|---|---|---|---|---|---|
+| CHAR-PR-MASTER | Прохор Ветлугин | Identity | **LOCKED** | `1ac61c5a` | все кадры с лицом |
+| CHAR-AD-MASTER | Аделаида Ветлугина | Identity | **не существует намеренно** | — | силуэт, затылок, рука, голос |
+
+Лицо Аделаиды не генерируется никогда. Правило — `characters/adelaida/IDENTITY_LOCK.md`.
+
+## Локации и предметы
+
+| Asset ID | Имя | Тип | Статус | Job |
+|---|---|---|---|---|
+| LOC-01 | Коридор 9-го этажа | Location | **LOCKED** | `7c9c1518` |
+| PROP-01 | Дверь 46 | Prop | **LOCKED** | `07543c3f` |
+| PROP-02 | Ручка двери 46 | Prop | **LOCKED** | `e79996c1` |
+| PROP-03 | Панель лифта | Prop | APPROVED | `b1fcec11` |
+
+## Мастер-кадры EP01
+
+| Asset ID | Шот | Статус | Job |
+|---|---|---|---|
+| SH001-START | sh01 вход | APPROVED | `c791a9f4` |
+| SH001-END | sh01 выход | APPROVED | `b1fcec11` |
+| SH002 | sh02 | APPROVED | `4752cbe1` |
+| SH003 | sh03 | APPROVED | `419f4209` |
+| SH004 | sh04 | APPROVED | `daedc142` |
+| SH005 | sh05 | APPROVED | `19a661c6` |
+| SH006 | sh06 | APPROVED | `8c77e469` |
+| SH007 | sh07 | APPROVED | `c4d82186` |
+| SH008 | sh08 | APPROVED | `66a87b60` |
+| SH009 | sh09 | APPROVED | `7d3af4de` |
+| SH010 | sh10 | APPROVED | `268becae` |
+| SH011 | sh11 | APPROVED | `c03d6217` |
+| SH012 | sh12 | APPROVED | `4a0182f5` |
+| SH013 | sh13 | APPROVED | `d534ed8f` |
+| SH014 | sh14 | APPROVED | `8e9bf3b6` |
+
+## Композ, а не генерация
+
+| Элемент | Почему |
+|---|---|
+| Любые буквы и цифры | модель не пишет кириллицу — `bible/TYPOGRAPHY.md` §5-бис |
+| Шрам Прохора | высота гуляет между генерациями — `characters/prohor/SCAR_ANCHOR.md` |
+| Гаснущие буквы таблички в sh10 | точность перехода |
+| Интерфейс телефона в sh13 | текст |
+
+## Ссылки на исходники
+
+Полный путь до файла: `https://d8j0ntlcm91z4.cloudfront.net/user_2wC9fxqVl9PMYHtH6o6vf0HfQ8Y/hf_20260821_<время>_<job>.png`.
+Домен закрыт политикой исходящего трафика сессии — файлы качает владелец.
+Развёрнутый разбор с причинами отказов — `assets/reference-review/REFERENCE_CATALOG.md`.
