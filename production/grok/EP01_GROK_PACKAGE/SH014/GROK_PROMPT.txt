@@ -1,0 +1,54 @@
+Use the supplied opening frame as the exact visual starting point: a macro at
+night of a man's palm laid over an aged brass lever on a matte white door,
+gripping it, with a thin healing scratch across the palm. Hanging from the end of
+the lever, right beside his fingers, is one thin child's elastic hair tie with a
+single small bead on it. Warm light seeps from a vertical slit at the door jamb;
+above the handle the door falls away into deep shadow.
+
+0.0-1.0 sec:
+The hand rests on the lever. The hair tie hangs still.
+
+1.0-2.5 sec:
+He grips harder. The knuckles blanch from pink to white with the pressure. The
+tendons rise on the back of the hand. The skin creases.
+
+2.5-3.4 sec:
+He presses down. The lever does not turn. It does not move a single degree. The
+hand strains against it and the metal stays exactly where it is.
+
+3.4-4.0 sec:
+The hand stops straining and simply holds, fingers still clenched, knuckles still
+white. The hair tie swings once, barely, and stops.
+
+CAMERA:
+Locked macro camera. No pan, tilt, zoom, drift or focus pull.
+
+END STATE:
+The fist clenched on an unmoved lever, the hair tie beside it, the scratch on the
+palm visible.
+
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Disturbing
+beauty. Realistic human skin with visible pores. Practical lighting from sources
+present in the scene. Desaturated palette. Controlled deep shadows. Institutional
+textures. Photorealistic materials. Realistic physics. Restrained camera. No
+obvious AI aesthetic.
+
+DO NOT:
+Do not introduce additional characters.
+Do not change the location.
+Do not change the clothing.
+Do not change facial identity.
+Do not add dialogue.
+Do not add any text, letters, digits, subtitles or watermarks.
+Do not create additional camera movements.
+Do not transform the character.
+Do not create exaggerated supernatural effects.
+Do not distort hands or facial anatomy.
+Do not morph background architecture.
+No synthetic CGI appearance.
+Do not turn, rotate or move the lever.
+Do not open the door.
+Do not add extra fingers or deform the hand.
+Do not remove or swing away the hair tie.
+Do not show a face or a second hand.

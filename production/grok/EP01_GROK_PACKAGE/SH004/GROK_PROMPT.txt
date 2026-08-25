@@ -1,0 +1,53 @@
+Use the supplied opening frame as the exact visual starting point: a narrow
+corridor inside an old apartment building at night, symmetrical one-point
+perspective, cold grey-green paint to waist height and chalky beige above, a dark
+wine-red runner down the centre of grey linoleum, closed doors along the walls,
+one closed off-white door at the far end with a narrow band of light lying under
+it, one cold fluorescent tube in the middle of the ceiling.
+
+0.0-1.5 sec:
+Nothing moves. The corridor is empty and still. The frame reads as a photograph.
+
+1.5-2.3 sec:
+The fluorescent tube stutters: it drops to darkness for a sixth of a second,
+flickers twice in quick succession, and returns to full strength. The walls and
+the runner do not move.
+
+2.3-3.5 sec:
+As the light returns, the narrow band under the far door grows wider by about one
+millimetre and holds.
+
+3.5-5.0 sec:
+The band narrows back to exactly its original width. Fine dust drifts downward
+very slowly through the light. Nothing else in the corridor moves.
+
+CAMERA:
+Locked camera, eye level, strict symmetry. No pan, tilt, zoom or drift.
+
+END STATE:
+The corridor exactly as at 0.0 sec, the band under the door back to its original
+width.
+
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Disturbing
+beauty. Realistic human skin with visible pores. Practical lighting from sources
+present in the scene. Desaturated palette. Controlled deep shadows. Institutional
+textures. Photorealistic materials. Realistic physics. Restrained camera. No
+obvious AI aesthetic.
+
+DO NOT:
+Do not introduce additional characters.
+Do not change the location.
+Do not change the clothing.
+Do not change facial identity.
+Do not add dialogue.
+Do not add any text, letters, digits, subtitles or watermarks.
+Do not create additional camera movements.
+Do not transform the character.
+Do not create exaggerated supernatural effects.
+Do not distort hands or facial anatomy.
+Do not morph background architecture.
+No synthetic CGI appearance.
+Do not open the far door.
+Do not let a person, shadow or silhouette enter the corridor.
+Do not bend or move the walls, the runner or the doors.

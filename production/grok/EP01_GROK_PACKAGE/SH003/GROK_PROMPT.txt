@@ -1,0 +1,64 @@
+Use the supplied opening frame as the exact visual starting point: the green
+lift panel, the column of blank brass-rimmed buttons, and below the column one
+rounded swelling in the metal glowing with dull red-oxide light. No hand is in
+the frame.
+The supplied end frame shows the state to arrive at: a man's index finger held in
+the air a clear two centimetres short of the metal, touching nothing, with a
+visible gap of air between fingertip and panel, and the glow faded to nothing.
+
+0.0-0.8 sec:
+Stillness. The glow holds steady.
+
+0.8-2.4 sec:
+A man's index finger enters slowly from the left. Broad working hand, short nail
+with ingrained dirt, a torn hangnail beside it, dry creased skin. It moves toward
+the swelling at an even unhurried pace.
+
+2.4-3.4 sec:
+The finger stops in the air two centimetres short of the metal. It touches
+nothing. A clear open gap of air stays between the fingertip and the panel, wide
+enough to see the green metal continuing behind it, and a soft shadow of the
+fingertip falls on the paint. The finger holds completely still.
+
+3.4-4.8 sec:
+Without being touched, the glow inside the swelling fades on its own: steady, dim,
+gone. It fades smoothly without flickering. The finger does not advance.
+
+4.8-6.0 sec:
+The swelling is dark. From the left edge a widening blade of pale cold light
+falls across the panel and grows, as lift doors part beyond the frame. The finger
+stays motionless.
+
+CAMERA:
+One extremely slow push-in across the whole shot, so gradual it is barely
+perceptible: the frame grows about four percent in total. No pan, tilt, roll or
+focus pull. The panel stays centred.
+
+END STATE:
+Finger motionless in the air two centimetres from the dark swelling, cold light
+entering from the left.
+
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Disturbing
+beauty. Realistic human skin with visible pores. Practical lighting from sources
+present in the scene. Desaturated palette. Controlled deep shadows. Institutional
+textures. Photorealistic materials. Realistic physics. Restrained camera. No
+obvious AI aesthetic.
+
+DO NOT:
+Do not introduce additional characters.
+Do not change the location.
+Do not change the clothing.
+Do not change facial identity.
+Do not add dialogue.
+Do not add any text, letters, digits, subtitles or watermarks.
+Do not create additional camera movements.
+Do not transform the character.
+Do not create exaggerated supernatural effects.
+Do not distort hands or facial anatomy.
+Do not morph background architecture.
+No synthetic CGI appearance.
+Do not let the finger touch, press or brush the panel or any button.
+Do not close the gap of air between fingertip and metal.
+Do not light up any button in the column.
+Do not show a face, a body or a second hand.

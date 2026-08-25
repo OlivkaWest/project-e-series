@@ -1,0 +1,53 @@
+Use the supplied opening frame as the exact visual starting point: a view through
+a gap two centimetres wide between a door and its frame. The gap is one narrow
+vertical strip of warm milky daylight down the centre; everything left and right
+of it is deep black. Inside the strip: the corner of a table with a patterned
+cloth, a window burned out to pure white, a glass of milk with a clean smooth
+surface, and a small child present only as a dark silhouette against the light,
+with no facial features visible.
+
+0.0-1.2 sec:
+Nothing moves. The strip of daylight is still. Dust turns slowly in the warm air
+inside the strip.
+
+1.2-3.0 sec:
+The child's silhouette moves across the lit strip from left to right, slowly, and
+passes out of view. It stays a flat dark shape throughout: no features, no eyes,
+no face, no detail lit at any moment.
+
+3.0-5.0 sec:
+The strip is empty again. The table, the window and the glass of milk are
+unchanged. The surface of the milk is perfectly clean and smooth. Nothing else
+happens.
+
+CAMERA:
+Locked camera. No pan, tilt, zoom, drift or focus pull. The gap does not widen.
+
+END STATE:
+The empty lit strip, the glass of milk still clean, the darkness unchanged.
+
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Disturbing
+beauty. Realistic human skin with visible pores. Practical lighting from sources
+present in the scene. Desaturated palette. Controlled deep shadows. Institutional
+textures. Photorealistic materials. Realistic physics. Restrained camera. No
+obvious AI aesthetic.
+
+DO NOT:
+Do not introduce additional characters.
+Do not change the location.
+Do not change the clothing.
+Do not change facial identity.
+Do not add dialogue.
+Do not add any text, letters, digits, subtitles or watermarks.
+Do not create additional camera movements.
+Do not transform the character.
+Do not create exaggerated supernatural effects.
+Do not distort hands or facial anatomy.
+Do not morph background architecture.
+No synthetic CGI appearance.
+Do not widen or close the gap in the door.
+Do not show the child's face, eyes or features at any point.
+Do not bring the child closer to the gap.
+Do not put a skin on the milk.
+Do not change the daylight to night or to a colder colour.

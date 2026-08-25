@@ -1,0 +1,57 @@
+Use the supplied opening frame as the exact visual starting point: an extreme
+macro of a phone held in a man's hand at night, the lit screen filling most of the
+frame and being the only light in it, lighting his fingertips coldly from below.
+On the screen is a still camera image of a child's bedroom seen from a high
+corner: a small bed with the blanket thrown back, the sheet beneath it flat and
+empty, a night light burning low, an open doorway on the right, and in the extreme
+top right corner of that pictured room one narrow sliver of white fabric at the
+edge of the doorway. Greasy fingerprints and a fine pixel grid on the glass.
+
+0.0-1.5 sec:
+The screen image is frozen. Nothing on it moves. The hand holding the phone is
+steady.
+
+1.5-2.2 sec:
+The image hangs and stutters, the way a slow camera feed does: it holds a fraction
+too long, then jumps.
+
+2.2-3.0 sec:
+The picture refreshes. The bedroom is exactly the same: same thrown-back blanket,
+same empty sheet, same night light, same sliver of white fabric in the corner.
+Nothing has changed and nobody is there.
+
+3.0-4.0 sec:
+The screen holds. The fingers do not move. The light from the screen stays
+constant on the skin.
+
+CAMERA:
+Locked macro camera. No pan, tilt, zoom, drift or focus pull.
+
+END STATE:
+The same empty bedroom on the screen, refreshed and unchanged.
+
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Disturbing
+beauty. Realistic human skin with visible pores. Practical lighting from sources
+present in the scene. Desaturated palette. Controlled deep shadows. Institutional
+textures. Photorealistic materials. Realistic physics. Restrained camera. No
+obvious AI aesthetic.
+
+DO NOT:
+Do not introduce additional characters.
+Do not change the location.
+Do not change the clothing.
+Do not change facial identity.
+Do not add dialogue.
+Do not add any text, letters, digits, subtitles or watermarks.
+Do not create additional camera movements.
+Do not transform the character.
+Do not create exaggerated supernatural effects.
+Do not distort hands or facial anatomy.
+Do not morph background architecture.
+No synthetic CGI appearance.
+Do not put a child, a figure or a face into the bedroom on the screen.
+Do not move the sliver of white fabric or make it bigger.
+Do not add interface elements, text, digits, icons or a clock: they are added
+later in compositing.
+Do not tilt or turn the phone.

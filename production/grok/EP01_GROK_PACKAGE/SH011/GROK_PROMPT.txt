@@ -1,0 +1,52 @@
+Use the supplied opening frame as the exact visual starting point: a close-up of a
+man's face at night, centred and filling the frame, with one horizontal band of
+pale milky light lying across his eyes and nothing else lit. Above the band his
+forehead is in deep shadow; below it his cheeks, mouth and jaw are in deep shadow.
+Preserve his exact identity, facial structure, eyes, nose, mouth, pores, age,
+stubble and hair from the supplied character reference.
+
+0.0-1.0 sec:
+The band of light sits low, across the bridge of his nose. His eyes are in shadow
+above it. He is completely still.
+
+1.0-2.6 sec:
+The band of light creeps slowly upward across his face until it lies exactly
+across both eyes, lighting the irises, the lashes and the wet surface of each eye,
+and nothing else. As the light reaches them, his pupils contract to pinpoints.
+His head does not move at all.
+
+2.6-4.0 sec:
+He takes half a step forward. The face grows very slightly in the frame. The band
+of light stays across his eyes. His expression does not change.
+
+CAMERA:
+Locked camera. The only change in scale comes from him stepping forward, not from
+the camera. No pan, tilt, zoom, drift or focus pull.
+
+END STATE:
+His eyes lit by the band, pupils contracted, face a fraction closer.
+
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Disturbing
+beauty. Realistic human skin with visible pores. Practical lighting from sources
+present in the scene. Desaturated palette. Controlled deep shadows. Institutional
+textures. Photorealistic materials. Realistic physics. Restrained camera. No
+obvious AI aesthetic.
+
+DO NOT:
+Do not introduce additional characters.
+Do not change the location.
+Do not change the clothing.
+Do not change facial identity.
+Do not add dialogue.
+Do not add any text, letters, digits, subtitles or watermarks.
+Do not create additional camera movements.
+Do not transform the character.
+Do not create exaggerated supernatural effects.
+Do not distort hands or facial anatomy.
+Do not morph background architecture.
+No synthetic CGI appearance.
+Do not move his head or let him look away.
+Do not widen his eyes or open his mouth.
+Do not light the rest of his face.
+Do not flicker or pulse the band of light.

@@ -1,0 +1,58 @@
+Use the supplied opening frame as the exact visual starting point: a tight
+close-up of a man's face at night, low in the frame with empty darkness above.
+One hard blade of cold light rakes horizontally across the left side of his face,
+catching his left eye, his left cheekbone and the wet line of his lower lashes.
+Everything right of the ridge of his nose is solid black with no detail.
+Preserve his exact identity, facial structure, eyes, nose, mouth, pores, age,
+stubble and hair from the supplied character reference.
+
+0.0-1.0 sec:
+He is completely still. His eyes are open, fixed on something ahead of him.
+
+1.0-1.6 sec:
+One breath catches: a very small, sharp intake through the nose. His nostrils
+move a fraction. His mouth stays closed. His shoulders barely rise.
+
+1.6-3.2 sec:
+He does not look away. His gaze stays fixed. The muscles around his lit eye
+tighten by a fraction — recognition, not fear. A single bead of perspiration on
+his temple catches the light.
+
+3.2-5.0 sec:
+He holds. Nothing else changes. The decision is already made and the face does
+not announce it.
+
+CAMERA:
+Locked camera, shallow depth of field. No pan, tilt, zoom, drift or focus pull.
+
+END STATE:
+The same face, same framing, expression changed only by a fraction.
+
+PERFORMANCE:
+Restrained to the edge of stillness. The horror is that he does not react more
+than this.
+
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Disturbing
+beauty. Realistic human skin with visible pores. Practical lighting from sources
+present in the scene. Desaturated palette. Controlled deep shadows. Institutional
+textures. Photorealistic materials. Realistic physics. Restrained camera. No
+obvious AI aesthetic.
+
+DO NOT:
+Do not introduce additional characters.
+Do not change the location.
+Do not change the clothing.
+Do not change facial identity.
+Do not add dialogue.
+Do not add any text, letters, digits, subtitles or watermarks.
+Do not create additional camera movements.
+Do not transform the character.
+Do not create exaggerated supernatural effects.
+Do not distort hands or facial anatomy.
+Do not morph background architecture.
+No synthetic CGI appearance.
+Do not widen his eyes, raise his brows, open his mouth or make him gasp.
+Do not turn his head or let him look away.
+Do not fill the shadow side of the face with light.
+Do not add a reflection, a figure or a shape in the darkness.

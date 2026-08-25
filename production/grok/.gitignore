@@ -1,0 +1,8 @@
+# Оригиналы всех кадров лежат в incoming/REFERENCE_DUMP/. Здесь только рабочие
+# копии для сборки пакетов: в историю не кладём, иначе они уходят в Git LFS,
+# закрытый политикой исходящего трафика сессии. Текст пакета версионируется.
+**/START_FRAME.png
+**/END_FRAME.png
+**/CHARACTER_REFERENCE.png
+**/LOCATION_REFERENCE.png
+*.zip

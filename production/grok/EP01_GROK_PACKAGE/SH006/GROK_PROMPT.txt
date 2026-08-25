@@ -1,0 +1,54 @@
+Use the supplied opening frame as the exact visual starting point: an extreme
+macro of an aged brass lever handle and its plain rectangular backplate on a matte
+white painted door at night, with a small worn plastic fish charm hanging from
+the lever on a red split ring. The plastic is rubbed chalky white along every edge
+and deeply scratched. The only light is a narrow warm slit escaping from under
+the door low in the frame, with a weak cold glow from far above.
+
+0.0-1.0 sec:
+Everything is still. The charm hangs motionless.
+
+1.0-2.6 sec:
+The charm swings gently twice, a small pendulum arc of a few degrees, as if it
+had just been touched. The red split ring turns very slightly on the lever with a
+tiny metallic movement. The door, the handle and the backplate do not move.
+
+2.6-4.0 sec:
+The swing damps out and the charm comes almost to rest, still trembling faintly.
+
+4.0-5.0 sec:
+The charm is completely still again. The light does not change.
+
+There is no draught in the frame: nothing else moves, no dust drifts sideways,
+no fabric stirs. The charm moves alone.
+
+CAMERA:
+Locked macro camera. No pan, tilt, zoom, drift or focus pull.
+
+END STATE:
+The charm hanging still, exactly as at 0.0 sec.
+
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Disturbing
+beauty. Realistic human skin with visible pores. Practical lighting from sources
+present in the scene. Desaturated palette. Controlled deep shadows. Institutional
+textures. Photorealistic materials. Realistic physics. Restrained camera. No
+obvious AI aesthetic.
+
+DO NOT:
+Do not introduce additional characters.
+Do not change the location.
+Do not change the clothing.
+Do not change facial identity.
+Do not add dialogue.
+Do not add any text, letters, digits, subtitles or watermarks.
+Do not create additional camera movements.
+Do not transform the character.
+Do not create exaggerated supernatural effects.
+Do not distort hands or facial anatomy.
+Do not morph background architecture.
+No synthetic CGI appearance.
+Do not move the door or the handle.
+Do not let a hand enter the frame.
+Do not add a second charm, a key or anything else on the ring.
+Do not blow the charm sideways as if in wind.

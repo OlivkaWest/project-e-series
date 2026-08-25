@@ -1,0 +1,49 @@
+Use the supplied opening frame as the exact visual starting point: an extreme
+macro fifteen centimetres from the base of an aged brass lever and its backplate.
+One single long grey human hair lies across the dark scratched metal on a
+diagonal, with one clear bend along its length. Rim light catches the hair so it
+glows like a thread. Dust motes hang in the air. The brass falls into soft blur
+behind it.
+
+0.0-1.2 sec:
+Absolute stillness. The hair does not move. The dust hangs without drifting.
+
+1.2-2.6 sec:
+The hair shifts by about one millimetre along its own length, a slow crawl, as if
+something under it moved. The bend in the hair travels slightly. Nothing else in
+the frame moves: the dust stays exactly where it is, the metal is still.
+
+2.6-4.0 sec:
+The hair stops. Everything holds.
+
+CAMERA:
+Locked macro camera, extremely shallow depth of field. No pan, tilt, zoom, drift
+or focus pull.
+
+END STATE:
+The single hair a millimetre from where it started, still.
+
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Disturbing
+beauty. Realistic human skin with visible pores. Practical lighting from sources
+present in the scene. Desaturated palette. Controlled deep shadows. Institutional
+textures. Photorealistic materials. Realistic physics. Restrained camera. No
+obvious AI aesthetic.
+
+DO NOT:
+Do not introduce additional characters.
+Do not change the location.
+Do not change the clothing.
+Do not change facial identity.
+Do not add dialogue.
+Do not add any text, letters, digits, subtitles or watermarks.
+Do not create additional camera movements.
+Do not transform the character.
+Do not create exaggerated supernatural effects.
+Do not distort hands or facial anatomy.
+Do not morph background architecture.
+No synthetic CGI appearance.
+Do not add a second hair or turn it into a lock of hair.
+Do not blow the hair away or lift it into the air.
+Do not move the dust.
+Do not let a hand or any object enter the frame.

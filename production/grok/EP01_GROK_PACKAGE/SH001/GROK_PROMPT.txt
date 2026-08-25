@@ -1,0 +1,57 @@
+Use the supplied opening frame as the exact visual starting point: an old lift
+call panel, green oil-painted metal, a column of brass-rimmed buttons with blank
+enamel faces, greasy fingerprints, chipped paint, dust in the gaps. The metal
+below the button column is flat and undisturbed. Nothing glows.
+The supplied end frame shows the state the shot must arrive at: one rounded
+swelling pressed out of the metal below the column, glowing from within with dull
+red-oxide light.
+
+0.0-1.2 sec:
+Nothing moves. No light change, no shimmer. The frame reads as a still photograph.
+
+1.2-2.6 sec:
+In the flat metal below the lowest button, one shallow rounded swelling rises,
+pressed outward from behind the plate. It grows slowly and evenly and stops at
+the size of a button. The dried paint on its surface stretches and crazes into
+hairline cracks. The specular highlight across the plate bends as the surface
+curves. Nothing else on the panel moves.
+
+2.6-4.0 sec:
+The swelling holds its final shape. A dull red-oxide light rises inside it, from
+nothing to steady, spilling a few millimetres onto the metal around it. The glow
+does not pulse and does not flicker.
+
+4.0-5.0 sec:
+Everything holds completely still. The swelling keeps its shape, the glow keeps
+its level.
+
+CAMERA:
+Locked camera. Perpendicular to the panel. No pan, tilt, zoom, drift or
+reframing at any point.
+
+END STATE:
+One glowing swelling below the button column. Everything else exactly as at 0.0.
+
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Disturbing
+beauty. Realistic human skin with visible pores. Practical lighting from sources
+present in the scene. Desaturated palette. Controlled deep shadows. Institutional
+textures. Photorealistic materials. Realistic physics. Restrained camera. No
+obvious AI aesthetic.
+
+DO NOT:
+Do not introduce additional characters.
+Do not change the location.
+Do not change the clothing.
+Do not change facial identity.
+Do not add dialogue.
+Do not add any text, letters, digits, subtitles or watermarks.
+Do not create additional camera movements.
+Do not transform the character.
+Do not create exaggerated supernatural effects.
+Do not distort hands or facial anatomy.
+Do not morph background architecture.
+No synthetic CGI appearance.
+Do not light up any of the existing buttons.
+Do not let a hand, finger or person enter the frame.
+Do not deform the brass rims or the button faces.

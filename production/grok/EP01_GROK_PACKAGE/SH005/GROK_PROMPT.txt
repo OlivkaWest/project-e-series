@@ -1,0 +1,54 @@
+Use the supplied opening frame as the exact visual starting point: the same
+corridor, and a man three metres away with his back to the camera, standing on
+the centre of the runner. Only the back of his head and his shoulders are
+visible; his face is turned away down the corridor. Dark navy work jacket with
+plain unbroken cloth across the back, dark jeans, worn brown boots, a keyring at
+his right hip. The supplied location reference fixes the architecture, materials
+and lighting of the corridor.
+
+0.0-1.0 sec:
+He stands still, back to camera. Nothing moves.
+
+1.0-4.0 sec:
+He takes four even, unhurried steps away from the camera, down the centre of the
+runner. His arms swing very slightly. The keyring at his hip sways in time with
+the steps. He becomes smaller in the frame as he goes. On the second step he
+raises his eyes toward the ceiling tube and lowers them again, visible only as a
+small tilt of the back of the head.
+
+4.0-5.0 sec:
+He continues walking, now about three metres from the far door, still with his
+back to the camera. The backlight from the band under the far door rims the line
+of his shoulders while the front of his body stays dark.
+
+CAMERA:
+Locked camera. The camera does NOT follow him. He simply gets smaller inside a
+fixed frame. No pan, tilt, zoom or drift.
+
+END STATE:
+The man smaller in the frame, still walking away, face never seen.
+
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Disturbing
+beauty. Realistic human skin with visible pores. Practical lighting from sources
+present in the scene. Desaturated palette. Controlled deep shadows. Institutional
+textures. Photorealistic materials. Realistic physics. Restrained camera. No
+obvious AI aesthetic.
+
+DO NOT:
+Do not introduce additional characters.
+Do not change the location.
+Do not change the clothing.
+Do not change facial identity.
+Do not add dialogue.
+Do not add any text, letters, digits, subtitles or watermarks.
+Do not create additional camera movements.
+Do not transform the character.
+Do not create exaggerated supernatural effects.
+Do not distort hands or facial anatomy.
+Do not morph background architecture.
+No synthetic CGI appearance.
+Do not turn him around.
+Do not show his face at any point.
+Do not move the camera after him.
+Do not add a patch, lettering or marking to the back of his jacket.

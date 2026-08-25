@@ -1,0 +1,53 @@
+Use the supplied opening frame as the exact visual starting point: a macro of a
+man's left hand pulling at a small red split ring hooked over an aged brass lever
+on a matte white door at night, with a worn plastic fish charm hanging from the
+ring. Broad palm, five fingers, short nails with ingrained dirt. The only light is
+a narrow warm slit from under the door, grazing upward across the fingers.
+
+0.0-1.0 sec:
+The hand grips the ring. Nothing moves yet.
+
+1.0-2.8 sec:
+He pulls. The ring catches on the lever and does not come free. The skin over his
+knuckles draws tight and pale with the effort. The tendons on the back of the hand
+stand out. The brass does not bend. The charm swings a little with the strain.
+
+2.8-4.0 sec:
+He pulls harder. The ring slides suddenly off the end of the lever. As it goes,
+the sharp edge of the metal passes across the open edge of his palm and leaves one
+thin fresh line behind it. A single bead of blood forms along the line.
+
+4.0-5.0 sec:
+His hand closes into a fist around the ring and the charm. The fist stays in
+frame, still. The thin cut is visible on the palm.
+
+CAMERA:
+Locked macro camera. No pan, tilt, zoom, drift or focus pull.
+
+END STATE:
+Charm and ring in his closed fist, one thin fresh cut across the palm.
+
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Disturbing
+beauty. Realistic human skin with visible pores. Practical lighting from sources
+present in the scene. Desaturated palette. Controlled deep shadows. Institutional
+textures. Photorealistic materials. Realistic physics. Restrained camera. No
+obvious AI aesthetic.
+
+DO NOT:
+Do not introduce additional characters.
+Do not change the location.
+Do not change the clothing.
+Do not change facial identity.
+Do not add dialogue.
+Do not add any text, letters, digits, subtitles or watermarks.
+Do not create additional camera movements.
+Do not transform the character.
+Do not create exaggerated supernatural effects.
+Do not distort hands or facial anatomy.
+Do not morph background architecture.
+No synthetic CGI appearance.
+Do not add extra fingers or deform the hand.
+Do not bend, stretch or melt the brass lever.
+Do not show a face or a second hand.
+Do not spray or splash blood: it is one thin line and one bead.
