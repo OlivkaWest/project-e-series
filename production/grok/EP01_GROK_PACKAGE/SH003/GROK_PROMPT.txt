@@ -6,25 +6,25 @@ The supplied end frame shows the state to arrive at: a man's index finger held i
 the air a clear two centimetres short of the metal, touching nothing, with a
 visible gap of air between fingertip and panel, and the glow faded to nothing.
 
-0.0-0.8 sec:
+0.0-1.2 sec:
 Stillness. The glow holds steady.
 
-0.8-2.4 sec:
+1.2-3.2 sec:
 A man's index finger enters slowly from the left. Broad working hand, short nail
 with ingrained dirt, a torn hangnail beside it, dry creased skin. It moves toward
 the swelling at an even unhurried pace.
 
-2.4-3.4 sec:
+3.2-4.6 sec:
 The finger stops in the air two centimetres short of the metal. It touches
 nothing. A clear open gap of air stays between the fingertip and the panel, wide
 enough to see the green metal continuing behind it, and a soft shadow of the
 fingertip falls on the paint. The finger holds completely still.
 
-3.4-4.8 sec:
+4.6-6.4 sec:
 Without being touched, the glow inside the swelling fades on its own: steady, dim,
 gone. It fades smoothly without flickering. The finger does not advance.
 
-4.8-6.0 sec:
+6.4-8.0 sec:
 The swelling is dark. From the left edge a widening blade of pale cold light
 falls across the panel and grows, as lift doors part beyond the frame. The finger
 stays motionless.

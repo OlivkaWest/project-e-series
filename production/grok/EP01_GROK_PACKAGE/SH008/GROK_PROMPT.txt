@@ -6,21 +6,22 @@ Everything right of the ridge of his nose is solid black with no detail.
 Preserve his exact identity, facial structure, eyes, nose, mouth, pores, age,
 stubble and hair from the supplied character reference.
 
-0.0-1.0 sec:
+0.0-2.0 sec:
 He is completely still. His eyes are open, fixed on something ahead of him.
 
-1.0-1.6 sec:
+2.0-2.8 sec:
 One breath catches: a very small, sharp intake through the nose. His nostrils
 move a fraction. His mouth stays closed. His shoulders barely rise.
 
-1.6-3.2 sec:
+2.8-5.5 sec:
 He does not look away. His gaze stays fixed. The muscles around his lit eye
 tighten by a fraction — recognition, not fear. A single bead of perspiration on
-his temple catches the light.
+his temple catches the light and slides a few millimetres.
 
-3.2-5.0 sec:
-He holds. Nothing else changes. The decision is already made and the face does
-not announce it.
+5.5-8.0 sec:
+He holds. Nothing else changes. He blinks once, slowly, and opens his eyes onto
+the same fixed gaze. The decision is already made and the face does not announce
+it.
 
 CAMERA:
 Locked camera, shallow depth of field. No pan, tilt, zoom, drift or focus pull.
