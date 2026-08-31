@@ -10,7 +10,7 @@ season-01/episode-001/EDIT_LIST.md.
 import subprocess, numpy as np, wave, sys
 
 SR = 48_000
-TOTAL = 25.10
+TOTAL = 25.50
 N = int(TOTAL * SR)
 SRC = "incoming/AUDIO_DUMP/SUNO_%s.mp3"
 
@@ -47,7 +47,7 @@ tr = np.zeros((N, 2))
 # склейка на коридор (5,80); откат 9-13; второй подъём 13,5-15 приходится на
 # SH008, момент узнавания (13,20-15,20). Растягивать и резать не пришлось.
 # Хвост трека (17,5-20,8) идёт под SH011 и SH012.
-BODY_END, MUTE_IN = 21.30, 0.25
+BODY_END, MUTE_IN = 21.05, 0.25
 seg = main[: int((BODY_END + MUTE_IN) * SR)]
 place(tr, ramp(seg, fin=0.05, fout=MUTE_IN), 0.0, 1.0)
 
@@ -59,15 +59,16 @@ d_len = BODY_END + MUTE_IN - D_AT
 place(tr, ramp(danger[: int(d_len * SR)], fin=0.35, fout=MUTE_IN), D_AT, 0.72)
 
 # ── 3. тишина 21,55-22,60: все слои сняты (правило 4) ───────────────────────
-# ложится на SH013, самый подвижный шот в серии. Снятый звук под движущейся
-# картинкой работает; под замершей читается как зависшее видео.
-SIL_A, SIL_B = 21.55, 22.60
+# две секунды, предел по правилу 4. Ложится ровно на SH013 — приём М2
+# BACKGROUND HORROR, где библия отдельно запрещает музыкальный удар.
+# Раз в серию тишина, раз в серию событие в глубине: пусть совпадут.
+SIL_A, SIL_B = 21.30, 23.00
 tr[int(SIL_A * SR):int(SIL_B * SR)] = 0.0
 
 # ── 4. финал: у FINAL провал до -36 дБ на 16,7-17,2 и удар на 17,3 ──────────
 # берём этот кусок целиком: тихий REVEAL, из которого вырывается CLIFFHANGER.
-F_FROM, F_AT = 16.55, 22.60
-CUT = 24.99
+F_FROM, F_AT = 16.55, 23.00
+CUT = 25.39
 f_len = CUT - F_AT
 place(tr, ramp(final[int(F_FROM * SR): int((F_FROM + f_len) * SR)], fin=0.08),
       F_AT, 1.0)
