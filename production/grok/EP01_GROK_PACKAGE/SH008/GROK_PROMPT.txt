@@ -46,31 +46,20 @@ PERFORMANCE:
 Restrained to the edge of stillness. The horror is that he does not react more
 than this. The frame is never frozen: the light and the sweat keep it alive.
 
-VISUAL SYSTEM:
-Cinematic psychological horror. Unsettling editorial photography. Disturbing
-beauty. Realistic human skin with visible pores. Practical lighting from sources
-present in the scene. Desaturated palette. Controlled deep shadows. Institutional
-textures. Photorealistic materials. Realistic physics. Restrained camera. No
-obvious AI aesthetic.
+CONTINUITY — stated as what is there:
+His head stays in the same position for the entire shot and his gaze stays fixed
+straight ahead.
+His mouth stays closed and his brow stays level. His eyes keep the same opening
+apart from the single slow blink.
+The right side of his face stays solid black at every moment, including through
+the stutter.
+The darkness above him and beside him stays empty and featureless.
+The lamp itself stays outside the frame.
+The waver is slow and irregular, closer to breathing than to a pulse.
+His face, clothing and hair stay exactly as they are in the opening frame.
 
-DO NOT:
-Do not introduce additional characters.
-Do not change the location.
-Do not change the clothing.
-Do not change facial identity.
-Do not add dialogue.
-Do not add any text, letters, digits, subtitles or watermarks.
-Do not create additional camera movements.
-Do not transform the character.
-Do not create exaggerated supernatural effects.
-Do not distort hands or facial anatomy.
-Do not morph background architecture.
-No synthetic CGI appearance.
-Do not widen his eyes, raise his brows, open his mouth or make him gasp.
-Do not turn his head or let him look away.
-Do not fill the shadow side of the face with light, not even during the stutter.
-Do not add a reflection, a figure or a shape in the darkness.
-Do not show the lamp, the tube or any fixture in frame.
-Do not make the flicker rhythmic, strobing or fast.
-Do not add blood, wounds, cuts, injuries, gore or bodily damage of any kind.
-Do not add any event that is not written in the timeline above.
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Realistic human
+skin with visible pores. Practical lighting from sources present in the scene.
+Desaturated palette. Controlled deep shadows. Institutional textures.
+Photorealistic materials. Realistic physics. Restrained camera.

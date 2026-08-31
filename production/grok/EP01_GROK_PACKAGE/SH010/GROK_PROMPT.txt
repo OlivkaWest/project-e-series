@@ -33,32 +33,18 @@ once. The camera does not help the viewer look at anything.
 END STATE:
 The same frame, the green glow now steady on his cheekbone, the plate still bare.
 
-VISUAL SYSTEM:
-Cinematic psychological horror. Unsettling editorial photography. Disturbing
-beauty. Realistic human skin with visible pores. Practical lighting from sources
-present in the scene. Desaturated palette. Controlled deep shadows. Institutional
-textures. Photorealistic materials. Realistic physics. Restrained camera. No
-obvious AI aesthetic.
+CONTINUITY — stated as what is there:
+The corridor is empty for its whole length; he is the only person in frame.
+He stays turned away for the entire shot: only his shoulder, jaw and one cheekbone
+remain in frame.
+The brass plate is a smooth unmarked rectangle, blank metal from edge to edge.
+The far door at the end of the corridor is a plain painted surface with nothing
+mounted on it.
+The dust stays as separate individual specks with clear air between them.
+His clothing stays exactly as it is in the opening frame.
 
-DO NOT:
-Do not introduce additional characters.
-Do not change the location.
-Do not change the clothing.
-Do not change facial identity.
-Do not add dialogue.
-Do not add any text, letters, digits, subtitles or watermarks.
-Do not create additional camera movements.
-Do not transform the character.
-Do not create exaggerated supernatural effects.
-Do not distort hands or facial anatomy.
-Do not morph background architecture.
-No synthetic CGI appearance.
-Do not turn him toward the camera or show his full face.
-Do not move the camera or rack focus toward the brass plate.
-Do not write, engrave or reveal any letters on the plate: it stays bare.
-Do not add a plate to the far door.
-Do not add a figure in the corridor.
-Do not let the dust become smoke, fog, mist or particles of light.
-Do not add blood, wounds, cuts, injuries, gore or bodily damage of any kind.
-Do not add liquid of any kind pouring, dripping, seeping or spreading.
-Do not add any event that is not written in the timeline above.
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Realistic human
+skin with visible pores. Practical lighting from sources present in the scene.
+Desaturated palette. Controlled deep shadows. Institutional textures.
+Photorealistic materials. Realistic physics. Restrained camera.

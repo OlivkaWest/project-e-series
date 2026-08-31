@@ -7,8 +7,8 @@ surface, and a small child present only as a dark silhouette against the light,
 with no facial features visible.
 
 0.0-2.0 sec:
-Nothing moves. The strip of daylight is still. Dust turns slowly in the warm air
-inside the strip.
+Dust turns slowly and continuously in the warm air inside the lit strip, catching
+the light as it drifts. The strip itself holds steady.
 
 2.0-5.0 sec:
 The child's silhouette moves across the lit strip from left to right, slowly, and
@@ -30,31 +30,16 @@ The gap does not widen or close.
 END STATE:
 The empty lit strip, the glass of milk still clean, the darkness unchanged.
 
-VISUAL SYSTEM:
-Cinematic psychological horror. Unsettling editorial photography. Disturbing
-beauty. Realistic human skin with visible pores. Practical lighting from sources
-present in the scene. Desaturated palette. Controlled deep shadows. Institutional
-textures. Photorealistic materials. Realistic physics. Restrained camera. No
-obvious AI aesthetic.
+CONTINUITY — stated as what is there:
+The child stays a flat dark shape at every moment, with no feature lit at any
+point, and keeps the same distance from the gap throughout.
+The surface of the milk stays a clean smooth disc.
+The daylight stays warm and milky for the whole shot.
+The darkness on both sides of the strip stays solid and featureless.
+He is the only figure; nothing else enters the lit strip.
 
-DO NOT:
-Do not introduce additional characters.
-Do not change the location.
-Do not change the clothing.
-Do not change facial identity.
-Do not add dialogue.
-Do not add any text, letters, digits, subtitles or watermarks.
-Do not create additional camera movements.
-Do not transform the character.
-Do not create exaggerated supernatural effects.
-Do not distort hands or facial anatomy.
-Do not morph background architecture.
-No synthetic CGI appearance.
-Do not widen or close the gap in the door.
-Do not show the child's face, eyes or features at any point.
-Do not bring the child closer to the gap.
-Do not put a skin on the milk.
-Do not change the daylight to night or to a colder colour.
-Do not add blood, wounds, cuts, injuries, gore or bodily damage of any kind.
-Do not add liquid of any kind pouring, dripping, seeping or spreading.
-Do not add any event that is not written in the timeline above.
+VISUAL SYSTEM:
+Cinematic psychological horror. Unsettling editorial photography. Realistic human
+skin with visible pores. Practical lighting from sources present in the scene.
+Desaturated palette. Controlled deep shadows. Institutional textures.
+Photorealistic materials. Realistic physics. Restrained camera.
