@@ -1,18 +1,23 @@
 Use the supplied opening frame as the exact visual starting point: a tight
 close-up of a man's face at night, low in the frame with empty darkness above.
-One hard blade of cold light rakes horizontally across the left side of his face,
-catching his left eye, his left cheekbone and the wet line of his lower lashes.
-Everything right of the ridge of his nose is solid black with no detail.
 Preserve his exact identity, facial structure, eyes, nose, mouth, pores, age,
 stubble and hair from the supplied character reference.
 
-The light comes from a failing fluorescent tube somewhere outside the frame, and
-it is never perfectly steady.
+LIGHT — this is the whole design of the shot:
+One hard blade of cold light rakes horizontally across the LEFT side of his face
+only. It catches his left eye, his left cheekbone and the wet line of his lower
+lashes, and it stops at the ridge of his nose.
+From the ridge of his nose to the right edge of the frame there is no light at all:
+no right eye, no right cheek, no right ear, no jawline, no shoulder. That half of
+the frame is solid black with no detail in it at any moment of the shot. Half of
+his face simply does not exist on camera.
+The light comes from a failing fluorescent tube outside the frame and is never
+perfectly steady.
 
 0.0-1.2 sec:
-He is still, eyes open and fixed on something ahead of him. The blade of light
-across his face wavers very slightly and continuously, the way a fluorescent tube
-breathes before it fails.
+He is still, his one lit eye open and fixed on something ahead of him. The blade of
+light wavers very slightly and continuously, the way a fluorescent tube breathes
+before it fails.
 
 1.2-2.4 sec:
 One breath catches: a small sharp intake through the nose. His nostrils move a
@@ -20,8 +25,9 @@ fraction. His mouth stays closed. His shoulders rise slightly and settle.
 
 2.4-4.2 sec:
 The light stutters once: it drops almost to black for a fraction of a second and
-comes back. The lit half of his face goes dark and returns with it. He does not
-react to the light and his gaze does not move.
+comes back. The lit half of his face goes dark and returns with it. The right half
+stays black through the stutter and through the recovery. He does not react to the
+light and his gaze does not move.
 
 4.2-6.0 sec:
 A bead of sweat at his temple releases and slides two centimetres down the lit
@@ -29,34 +35,41 @@ edge of his face. The muscles around his lit eye tighten by a fraction —
 recognition, not fear.
 
 6.0-8.0 sec:
-He blinks once, slowly, and opens his eyes onto the same fixed gaze. The light
+He blinks once, slowly, and opens his eye onto the same fixed gaze. The light
 settles back to its faint continuous waver. The decision is already made and the
 face does not announce it.
 
+SOUND:
+Close and dry. A faint electrical hum from the failing tube, unsteady, wandering in
+pitch. One hard mechanical click from its starter at the moment it stutters. His
+single sharp intake of breath through the nose, close to the microphone, then quiet
+breathing. Under it, the low hum of an empty stairwell at night. No music of any
+kind. No sudden loud sound. Nothing that is not made by an object present in the
+scene.
+
 CAMERA LOCK:
-The camera is bolted down. The framing at the last frame must be identical to the
+The camera is bolted down. The framing at the last frame is identical to the
 framing at the first frame: same distance, same angle, same crop, same lens. No
-pan, no tilt, no roll, no zoom, no push-in, no pull-back, no drift, no handheld
-float, no reframing, no focus pull at any moment.
-
-END STATE:
-The same face, same framing, expression changed only by a fraction.
-
-PERFORMANCE:
-Restrained to the edge of stillness. The horror is that he does not react more
-than this. The frame is never frozen: the light and the sweat keep it alive.
+pan, tilt, roll, zoom, push-in, pull-back, drift, handheld float, reframing or
+focus pull at any moment.
 
 CONTINUITY — stated as what is there:
 His head stays in the same position for the entire shot and his gaze stays fixed
 straight ahead.
-His mouth stays closed and his brow stays level. His eyes keep the same opening
+His mouth stays closed and his brow stays level. His eye keeps the same opening
 apart from the single slow blink.
-The right side of his face stays solid black at every moment, including through
-the stutter.
-The darkness above him and beside him stays empty and featureless.
+The dark half of the frame stays empty and featureless: nothing appears in it.
 The lamp itself stays outside the frame.
 The waver is slow and irregular, closer to breathing than to a pulse.
 His face, clothing and hair stay exactly as they are in the opening frame.
+
+END STATE:
+The same face, same framing, half of it still in solid black, the expression
+changed only by a fraction.
+
+PERFORMANCE:
+Restrained to the edge of stillness. The horror is that he does not react more
+than this. The frame is never frozen: the light and the sweat keep it alive.
 
 VISUAL SYSTEM:
 Cinematic psychological horror. Unsettling editorial photography. Realistic human

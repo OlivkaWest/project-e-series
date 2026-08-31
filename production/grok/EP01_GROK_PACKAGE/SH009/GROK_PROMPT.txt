@@ -25,32 +25,40 @@ The fingers fold down over the ring and the charm and close into a fist. The fis
 holds, rising and falling very slightly with his breathing. The plastic fish swings
 once against the outside of the fist and comes to rest.
 
+SOUND:
+Close, dry, and quiet. Steel wire grinding slowly against brass, rising in pitch as
+the pull increases. One short bright click as the ring clears the end of the lever.
+The soft knock of light plastic against the back of a hand, once. Under all of it,
+his breathing through the nose, close to the microphone, and the low hum of an
+empty stairwell at night. No music of any kind. No sudden loud sound. Nothing that
+is not made by an object visible in the frame.
+
+FRAME LOCK:
+The frame is filled edge to edge by the flat surface of the door, the brass lever
+and the hand. The edge of the door, the door frame, the strike plate, the wall and
+any room beyond it stay outside the frame for the entire shot and never come into
+view. The camera is bolted down: the framing at the last frame is identical to the
+framing at the first frame — same distance, same angle, same crop, same lens. It
+holds still through the release and does not follow the recoil.
+
 HAND CONTINUITY:
 The hand keeps the same digits from the first frame to the last. Each one stays
 continuously visible, separately articulated, and the same length and width
 throughout. The palm keeps one consistent width. The skin stays clean and dry.
-
-CAMERA LOCK:
-The camera is bolted down. The framing at the last frame is identical to the
-framing at the first frame: same distance, same angle, same crop, same lens. It
-holds still through the release and does not follow the recoil.
 
 LIGHTING:
 One narrow warm line of light escapes from under the door along the bottom edge of
 the frame. That is the only light source. Above it the door is flat matte white in
 shadow, one continuous unlit surface, the same tone at its edges as at its centre.
 
-FRAME:
-The hand and the lever fill the frame. Everything around them is plain painted door.
-
 PHYSICS:
 Real weight, real friction, real elasticity. The split ring is springy steel wire
-and returns to a circle once it is free. The charm is light plastic on a short
-loop and swings on a single pendulum arc.
+and returns to a circle once it is free. The charm is light plastic on a short loop
+and swings on a single pendulum arc.
 
 END STATE:
 Closed fist holding the ring and the charm, the brass lever bare, the warm line
-still glowing along the floor.
+still glowing along the floor. The door has not moved and has not opened.
 
 VISUAL SYSTEM:
 Cinematic psychological horror. Unsettling editorial photography. Realistic human
