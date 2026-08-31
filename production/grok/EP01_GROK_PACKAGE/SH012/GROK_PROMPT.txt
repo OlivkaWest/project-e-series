@@ -51,3 +51,6 @@ Do not show the child's face, eyes or features at any point.
 Do not bring the child closer to the gap.
 Do not put a skin on the milk.
 Do not change the daylight to night or to a colder colour.
+Do not add blood, wounds, cuts, injuries, gore or bodily damage of any kind.
+Do not add liquid of any kind pouring, dripping, seeping or spreading.
+Do not add any event that is not written in the timeline above.

@@ -5,28 +5,38 @@ wine-red runner down the centre of grey linoleum, closed doors along the walls,
 one closed off-white door at the far end with a narrow band of light lying under
 it, one cold fluorescent tube in the middle of the ceiling.
 
+Every door in this corridor stays shut for the whole shot. The far door at the
+end stays closed, its surface flat and unmoved, its edges tight in the frame.
+
 0.0-1.5 sec:
 Nothing moves. The corridor is empty and still. The frame reads as a photograph.
 
 1.5-2.3 sec:
 The fluorescent tube stutters: it drops to darkness for a sixth of a second,
-flickers twice in quick succession, and returns to full strength. The walls and
-the runner do not move.
+flickers twice in quick succession, and returns to full strength. The walls, the
+doors and the runner do not move.
 
 2.3-3.5 sec:
-As the light returns, the narrow band under the far door grows wider by about one
-millimetre and holds.
+As the light returns, the narrow band of light lying on the floor along the
+bottom edge of the far door grows wider by about one millimetre and holds. The
+door itself does not move. The band stays cold and stays at the floor.
 
 3.5-5.0 sec:
 The band narrows back to exactly its original width. Fine dust drifts downward
-very slowly through the light. Nothing else in the corridor moves.
+very slowly through the light.
 
-CAMERA:
-Locked camera, eye level, strict symmetry. No pan, tilt, zoom or drift.
+5.0-6.0 sec:
+The corridor holds, empty and still, exactly as at 0.0 sec.
+
+CAMERA LOCK:
+The camera is bolted down. The framing at the last frame must be identical to the
+framing at the first frame: same distance, same angle, same crop, same lens. No
+pan, no tilt, no roll, no zoom, no push-in, no pull-back, no drift, no handheld
+float, no reframing, no focus pull at any moment.
 
 END STATE:
-The corridor exactly as at 0.0 sec, the band under the door back to its original
-width.
+The corridor identical to 0.0 sec, all doors closed, the band under the far door
+back to its original width.
 
 VISUAL SYSTEM:
 Cinematic psychological horror. Unsettling editorial photography. Disturbing
@@ -48,6 +58,11 @@ Do not create exaggerated supernatural effects.
 Do not distort hands or facial anatomy.
 Do not morph background architecture.
 No synthetic CGI appearance.
-Do not open the far door.
-Do not let a person, shadow or silhouette enter the corridor.
-Do not bend or move the walls, the runner or the doors.
+Do not add blood, wounds, cuts, injuries, gore or bodily damage of any kind.
+Do not add liquid of any kind pouring, dripping, seeping or spreading.
+Do not add any event that is not written in the timeline above.
+Do not open the far door or any other door, by any amount, at any moment.
+Do not let warm light appear behind or around the far door.
+Do not let a person, shadow, silhouette or reflection enter the corridor.
+Do not bend, stretch or move the walls, the runner or the doorframes.
+Do not turn the corridor light warm.

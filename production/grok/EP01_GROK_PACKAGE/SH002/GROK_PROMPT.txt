@@ -7,34 +7,35 @@ Preserve his exact identity, facial structure, eyes, nose, mouth, skin texture,
 age, three-day stubble, hair and body proportions from the supplied character
 reference. Take identity ONLY from it: not the pose, not the studio background,
 not the lighting, and not the patch on the back of the jacket.
+His face is clean and undamaged. His skin is intact everywhere.
 
-0.0-2.0 sec:
+0.0-1.5 sec:
 He is completely motionless. Head, shoulders and torso fixed. One shallow breath.
 
-2.0-3.2 sec:
+1.5-2.5 sec:
 Only his eyes move downward, toward the panel below and to his left. His head
 does not move. His shoulders do not move.
 About a tenth of a second AFTER his eyes move, the eyes of his reflection move
 down as well. The reflection is always a beat behind him, never simultaneous.
 
-3.2-6.0 sec:
+2.5-4.5 sec:
 His head begins a slow even turn to his left, about twenty degrees, continuous.
 His body stays where it is. The reflection starts its turn about a tenth of a
 second later than he does and finishes later, so the two never line up.
 
-6.0-8.0 sec:
+4.5-6.0 sec:
 His head stops. He holds, looking down and left, mouth closed. The reflection
-completes its turn a fraction later and holds too.
+completes its turn a fraction later and holds too. Nothing else happens.
 
-8.0-10.0 sec:
-Both hold. He does not move again. The reflection does not move again. The lamp
-does not flicker. The shot simply rests on the stillness.
-
-CAMERA:
-Locked camera at eye level. No pan, tilt, zoom, drift or focus pull.
+CAMERA LOCK:
+The camera is bolted down. The framing at the last frame must be identical to the
+framing at the first frame: same distance, same angle, same crop, same lens. No
+pan, no tilt, no roll, no zoom, no push-in, no pull-back, no drift, no handheld
+float, no reframing, no focus pull at any moment.
 
 END STATE:
 He looks down and to his left, still. The reflection has caught up and is still.
+The frame is composed exactly as it was at 0.0 sec.
 
 PERFORMANCE:
 Exhausted, controlled, closed. No fear on the face, no widened eyes, no raised
@@ -61,7 +62,11 @@ Do not create exaggerated supernatural effects.
 Do not distort hands or facial anatomy.
 Do not morph background architecture.
 No synthetic CGI appearance.
+Do not add blood, wounds, cuts, injuries, gore or bodily damage of any kind.
+Do not add liquid of any kind pouring, dripping, seeping or spreading.
+Do not add any event that is not written in the timeline above.
 Do not let the reflection move at the same moment he does.
 Do not have the reflection do anything he does not do.
 Do not show a second person or a face in the mirror that is not his.
 Do not show his back or the back of his jacket.
+Do not mark, scratch, bruise or damage his face in any way.

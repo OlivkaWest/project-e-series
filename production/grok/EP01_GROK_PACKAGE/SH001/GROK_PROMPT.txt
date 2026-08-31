@@ -55,3 +55,6 @@ No synthetic CGI appearance.
 Do not light up any of the existing buttons.
 Do not let a hand, finger or person enter the frame.
 Do not deform the brass rims or the button faces.
+Do not add blood, wounds, cuts, injuries, gore or bodily damage of any kind.
+Do not add liquid of any kind pouring, dripping, seeping or spreading.
+Do not add any event that is not written in the timeline above.

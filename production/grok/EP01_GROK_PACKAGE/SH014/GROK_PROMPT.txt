@@ -52,3 +52,6 @@ Do not open the door.
 Do not add extra fingers or deform the hand.
 Do not remove or swing away the hair tie.
 Do not show a face or a second hand.
+Do not add blood, wounds, cuts, injuries, gore or bodily damage of any kind.
+Do not add liquid of any kind pouring, dripping, seeping or spreading.
+Do not add any event that is not written in the timeline above.

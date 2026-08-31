@@ -53,3 +53,6 @@ Do not move the camera or rack focus toward the brass plate.
 Do not write, engrave or reveal any letters on the plate: it stays bare.
 Do not add a plate to the far door.
 Do not add a figure in the corridor.
+Do not add blood, wounds, cuts, injuries, gore or bodily damage of any kind.
+Do not add liquid of any kind pouring, dripping, seeping or spreading.
+Do not add any event that is not written in the timeline above.

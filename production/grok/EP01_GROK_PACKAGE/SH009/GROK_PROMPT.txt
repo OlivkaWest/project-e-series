@@ -1,31 +1,36 @@
 Use the supplied opening frame as the exact visual starting point: a macro of a
-man's left hand pulling at a small red split ring hooked over an aged brass lever
-on a matte white door at night, with a worn plastic fish charm hanging from the
-ring. Broad palm, five fingers, short nails with ingrained dirt. The only light is
-a narrow warm slit from under the door, grazing upward across the fingers.
+man's left hand gripping a small red split ring hooked over an aged brass lever on
+a matte white door at night, with a worn plastic fish charm hanging from the ring.
+The hand has one broad palm, four fingers and one thumb, short nails with
+ingrained dirt, dry creased working skin. Its anatomy stays exactly that for the
+whole shot.
+The only light is one narrow warm line escaping from under the door at the bottom
+of the frame. The rest of the door and all of its other edges stay dark.
 
 0.0-1.0 sec:
-The hand grips the ring. Nothing moves yet.
+The hand grips the ring. Nothing moves.
 
-1.0-2.8 sec:
+1.0-2.5 sec:
 He pulls. The ring catches on the lever and does not come free. The skin over his
-knuckles draws tight and pale with the effort. The tendons on the back of the hand
-stand out. The brass does not bend. The charm swings a little with the strain.
+knuckles draws tight and pale with the effort. The tendons rise on the back of the
+hand. The brass does not bend. The fingers keep their shape and their count.
 
-2.8-4.0 sec:
-He pulls harder. The ring slides suddenly off the end of the lever. As it goes,
-the sharp edge of the metal passes across the open edge of his palm and leaves one
-thin fresh line behind it. A single bead of blood forms along the line.
+2.5-4.0 sec:
+He pulls harder and the ring slides off the end of the lever. The hand closes into
+a fist around the ring and the charm and stays in frame.
 
-4.0-5.0 sec:
-His hand closes into a fist around the ring and the charm. The fist stays in
-frame, still. The thin cut is visible on the palm.
+4.0-6.0 sec:
+The fist holds, still. One thin pale line is visible across the open edge of the
+palm where the metal passed over the skin. Nothing else happens.
 
-CAMERA:
-Locked macro camera. No pan, tilt, zoom, drift or focus pull.
+CAMERA LOCK:
+The camera is bolted down. The framing at the last frame must be identical to the
+framing at the first frame: same distance, same angle, same crop, same lens. No
+pan, no tilt, no roll, no zoom, no push-in, no pull-back, no drift, no handheld
+float, no reframing, no focus pull at any moment.
 
 END STATE:
-Charm and ring in his closed fist, one thin fresh cut across the palm.
+Ring and charm inside the closed fist, one thin pale line across the palm.
 
 VISUAL SYSTEM:
 Cinematic psychological horror. Unsettling editorial photography. Disturbing
@@ -47,7 +52,11 @@ Do not create exaggerated supernatural effects.
 Do not distort hands or facial anatomy.
 Do not morph background architecture.
 No synthetic CGI appearance.
-Do not add extra fingers or deform the hand.
-Do not bend, stretch or melt the brass lever.
+Do not add blood, wounds, cuts, injuries, gore or bodily damage of any kind.
+Do not add liquid of any kind pouring, dripping, seeping or spreading.
+Do not add any event that is not written in the timeline above.
+Do not add extra fingers, lose fingers, or let the hand change shape or size.
+Do not bend, stretch, melt or duplicate the brass lever.
+Do not light the edges of the door: only the bottom line glows.
+Do not turn the door outline into a glowing rectangle or a neon frame.
 Do not show a face or a second hand.
-Do not spray or splash blood: it is one thin line and one bead.

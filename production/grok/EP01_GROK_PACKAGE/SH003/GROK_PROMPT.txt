@@ -1,42 +1,43 @@
-Use the supplied opening frame as the exact visual starting point: the green
-lift panel, the column of blank brass-rimmed buttons, and below the column one
-rounded swelling in the metal glowing with dull red-oxide light. No hand is in
-the frame.
+Use the supplied opening frame as the exact visual starting point: the green lift
+panel, the column of blank brass-rimmed buttons, and below the column one rounded
+swelling in the metal glowing with dull red-oxide light. No hand is in the frame.
 The supplied end frame shows the state to arrive at: a man's index finger held in
 the air a clear two centimetres short of the metal, touching nothing, with a
 visible gap of air between fingertip and panel, and the glow faded to nothing.
 
-0.0-1.2 sec:
-Stillness. The glow holds steady.
+0.0-1.0 sec:
+Stillness. The glow holds steady. The panel is dry and clean.
 
-1.2-3.2 sec:
+1.0-2.5 sec:
 A man's index finger enters slowly from the left. Broad working hand, short nail
-with ingrained dirt, a torn hangnail beside it, dry creased skin. It moves toward
-the swelling at an even unhurried pace.
+with ingrained dirt, dry creased skin. It moves toward the swelling at an even
+unhurried pace and slows as it approaches.
 
-3.2-4.6 sec:
-The finger stops in the air two centimetres short of the metal. It touches
-nothing. A clear open gap of air stays between the fingertip and the panel, wide
-enough to see the green metal continuing behind it, and a soft shadow of the
-fingertip falls on the paint. The finger holds completely still.
+2.5-3.5 sec:
+The finger STOPS in the air, a clear two centimetres short of the metal. Between
+the fingertip and the panel there is open air, wide enough to see the green metal
+continuing behind it. A soft shadow of the fingertip falls on the paint, separate
+from the fingertip itself, and the shadow and the finger never meet. The finger
+holds completely still at that distance for the rest of the shot.
 
-4.6-6.4 sec:
-Without being touched, the glow inside the swelling fades on its own: steady, dim,
-gone. It fades smoothly without flickering. The finger does not advance.
+3.5-5.0 sec:
+Untouched, the glow inside the swelling fades on its own: steady, dim, gone. It
+fades smoothly without flickering. The finger stays exactly where it stopped and
+does not move closer by even a millimetre.
 
-6.4-8.0 sec:
-The swelling is dark. From the left edge a widening blade of pale cold light
-falls across the panel and grows, as lift doors part beyond the frame. The finger
-stays motionless.
+5.0-6.0 sec:
+The swelling is dark and dry. The finger is still suspended in the air. Nothing
+else happens.
 
-CAMERA:
-One extremely slow push-in across the whole shot, so gradual it is barely
-perceptible: the frame grows about four percent in total. No pan, tilt, roll or
-focus pull. The panel stays centred.
+CAMERA LOCK:
+The camera is bolted down. The framing at the last frame must be identical to the
+framing at the first frame: same distance, same angle, same crop, same lens. No
+pan, no tilt, no roll, no zoom, no push-in, no pull-back, no drift, no handheld
+float, no reframing, no focus pull at any moment.
 
 END STATE:
-Finger motionless in the air two centimetres from the dark swelling, cold light
-entering from the left.
+Finger motionless in the air, a visible gap of air between it and the dark
+swelling. The frame is composed exactly as it was at 0.0 sec.
 
 VISUAL SYSTEM:
 Cinematic psychological horror. Unsettling editorial photography. Disturbing
@@ -58,7 +59,12 @@ Do not create exaggerated supernatural effects.
 Do not distort hands or facial anatomy.
 Do not morph background architecture.
 No synthetic CGI appearance.
-Do not let the finger touch, press or brush the panel or any button.
+Do not add blood, wounds, cuts, injuries, gore or bodily damage of any kind.
+Do not add liquid of any kind pouring, dripping, seeping or spreading.
+Do not add any event that is not written in the timeline above.
+Do not let the finger touch, press, tap, brush or rest on the panel or any button.
 Do not close the gap of air between fingertip and metal.
+Do not let the fingertip and its shadow meet.
 Do not light up any button in the column.
+Do not break, crack, burst or open the swelling.
 Do not show a face, a body or a second hand.

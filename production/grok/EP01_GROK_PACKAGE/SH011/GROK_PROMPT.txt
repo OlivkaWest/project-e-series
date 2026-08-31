@@ -1,30 +1,42 @@
 Use the supplied opening frame as the exact visual starting point: a close-up of a
 man's face at night, centred and filling the frame, with one horizontal band of
-pale milky light lying across his eyes and nothing else lit. Above the band his
-forehead is in deep shadow; below it his cheeks, mouth and jaw are in deep shadow.
+soft pale milky light lying across his face and everything above and below it in
+deep shadow.
 Preserve his exact identity, facial structure, eyes, nose, mouth, pores, age,
-stubble and hair from the supplied character reference.
+stubble and hair from the supplied character reference. His face is clean and
+undamaged.
+
+The band of light is soft-edged and milky, the colour of daylight through a
+narrow gap. It is not a hard white stripe and it does not glare.
 
 0.0-1.0 sec:
-The band of light sits low, across the bridge of his nose. His eyes are in shadow
-above it. He is completely still.
+The band sits low, across the bridge of his nose. His eyes are in shadow just
+above it. His head is completely still.
 
-1.0-2.6 sec:
-The band of light creeps slowly upward across his face until it lies exactly
-across both eyes, lighting the irises, the lashes and the wet surface of each eye,
-and nothing else. As the light reaches them, his pupils contract to pinpoints.
-His head does not move at all.
+1.0-3.0 sec:
+The band creeps slowly upward across his face until it lies exactly across both
+eyes, lighting the irises, the lashes and the wet surface of each eye, and nothing
+else. As the light reaches them his pupils contract to pinpoints.
+His head does not move. His chin does not drop. His eyes stay open and stay
+looking straight ahead into the lens. He does not look down.
 
-2.6-4.0 sec:
-He takes half a step forward. The face grows very slightly in the frame. The band
-of light stays across his eyes. His expression does not change.
+3.0-4.0 sec:
+The band holds across his eyes. He takes half a step forward, so the face grows
+very slightly in the frame. His head stays level and his gaze stays forward.
 
-CAMERA:
-Locked camera. The only change in scale comes from him stepping forward, not from
-the camera. No pan, tilt, zoom, drift or focus pull.
+4.0-5.0 sec:
+Everything holds. The band stays across his eyes. His expression does not change.
+
+CAMERA LOCK:
+The camera is bolted down. The framing at the last frame must be identical to the
+framing at the first frame: same distance, same angle, same crop, same lens. No
+pan, no tilt, no roll, no zoom, no push-in, no pull-back, no drift, no handheld
+float, no reframing, no focus pull at any moment.
+The only change of scale in the shot comes from him stepping forward, never from
+the camera.
 
 END STATE:
-His eyes lit by the band, pupils contracted, face a fraction closer.
+His eyes lit by the soft band, pupils contracted, head level, gaze forward.
 
 VISUAL SYSTEM:
 Cinematic psychological horror. Unsettling editorial photography. Disturbing
@@ -46,7 +58,12 @@ Do not create exaggerated supernatural effects.
 Do not distort hands or facial anatomy.
 Do not morph background architecture.
 No synthetic CGI appearance.
-Do not move his head or let him look away.
-Do not widen his eyes or open his mouth.
+Do not add blood, wounds, cuts, injuries, gore or bodily damage of any kind.
+Do not add liquid of any kind pouring, dripping, seeping or spreading.
+Do not add any event that is not written in the timeline above.
+Do not lower his head, drop his chin or make him look down.
+Do not close his eyes or let him blink the band away.
+Do not make the band hard, white, glaring or blown out.
 Do not light the rest of his face.
-Do not flicker or pulse the band of light.
+Do not flicker, pulse or strobe the band.
+Do not mark, scratch, bruise or damage his face in any way.
