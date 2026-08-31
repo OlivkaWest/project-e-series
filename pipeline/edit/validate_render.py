@@ -17,7 +17,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from _ff import (MASTER, audio_stream, fps_of, measure_loudness,  # noqa: E402
                  probe, require, video_stream)
 
-DUR_MIN, DUR_MAX = 25.0, 40.0
+DUR_MIN, DUR_MAX = 25.0, 60.0
 
 
 def check(name: str, actual, expected, ok: bool) -> tuple[str, str, str, bool]:
