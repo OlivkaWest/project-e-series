@@ -1,29 +1,26 @@
+ЗАПАСНОЙ ВАРИАНТ. Брать, если основной промпт три раза подряд ломает кисть или
+не отпускает кольцо. Здесь снято самое трудное — момент срыва. Кадр обрывается
+на максимальном усилии.
+
 Use the supplied opening frame as the exact visual starting point: a macro of a
 man's left hand closed around a small red split ring that is hooked over an aged
 brass lever handle on a matte white door at night. A worn plastic fish charm hangs
 from the ring. The skin is dry, creased working skin with visible pores, the nails
 short with ingrained dirt.
 
-The pull has already begun when the shot starts. The tendons on the back of the
-hand are standing. The ring is stretched taut against the underside of the brass.
+0.0-1.5 sec:
+The pull begins. The tendons rise one by one along the back of the hand.
 
-0.0-1.2 sec:
-The pull grows steadily. The knuckles go from pink to bone white as the blood
-leaves them. The tendons rise one by one along the back of the hand.
+1.5-3.5 sec:
+The pull grows steadily and does not stop growing. The knuckles go from pink to
+bone white as the blood leaves them. The red ring deforms into a flattened oval
+where it presses against the brass. The hand trembles very slightly with the
+effort. The brass lever holds its shape exactly: it is solid cast metal and it
+does not move.
 
-1.2-3.0 sec:
-The pull keeps growing. The red ring deforms into a flattened oval where it presses
-against the brass. The whole hand trembles very slightly with the effort. The brass
-lever holds its shape exactly: it is solid cast metal and it does not move.
-
-3.0-3.6 sec:
-The ring clears the end of the lever and springs free. The hand recoils two
-centimetres and stops.
-
-3.6-5.0 sec:
-The fingers fold down over the ring and the charm and close into a fist. The fist
-holds, rising and falling very slightly with his breathing. The plastic fish swings
-once against the outside of the fist and comes to rest.
+3.5-5.0 sec:
+The pull holds at its maximum. The ring stays exactly where it is, caught. Nothing
+gives. The tremble continues. The charm hangs still.
 
 HAND CONTINUITY:
 The hand keeps the same digits from the first frame to the last. Each one stays
@@ -32,8 +29,7 @@ throughout. The palm keeps one consistent width. The skin stays clean and dry.
 
 CAMERA LOCK:
 The camera is bolted down. The framing at the last frame is identical to the
-framing at the first frame: same distance, same angle, same crop, same lens. It
-holds still through the release and does not follow the recoil.
+framing at the first frame: same distance, same angle, same crop, same lens.
 
 LIGHTING:
 One narrow warm line of light escapes from under the door along the bottom edge of
@@ -44,13 +40,11 @@ FRAME:
 The hand and the lever fill the frame. Everything around them is plain painted door.
 
 PHYSICS:
-Real weight, real friction, real elasticity. The split ring is springy steel wire
-and returns to a circle once it is free. The charm is light plastic on a short
-loop and swings on a single pendulum arc.
+Real weight, real friction, real elasticity. The split ring is springy steel wire.
+The charm is light plastic on a short loop.
 
 END STATE:
-Closed fist holding the ring and the charm, the brass lever bare, the warm line
-still glowing along the floor.
+The ring still caught on the lever, the hand at maximum effort, nothing resolved.
 
 VISUAL SYSTEM:
 Cinematic psychological horror. Unsettling editorial photography. Realistic human
