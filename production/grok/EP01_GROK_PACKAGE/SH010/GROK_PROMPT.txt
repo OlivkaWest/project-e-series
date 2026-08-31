@@ -7,26 +7,31 @@ left-hand wall and well off centre, one closed door carries a small rectangular
 brass name plate, smooth and bare. The far door at the end of the corridor is
 plain. The supplied location reference fixes the corridor architecture and light.
 
-0.0-1.5 sec:
-Nothing moves. He does not turn. He does not look back.
+0.0-1.0 sec:
+Fine dust drifts slowly through the corridor air, turning where the light catches
+it. He is motionless and does not turn.
 
-1.5-2.5 sec:
-The green glow on his cheekbone brightens smoothly, as if an intercom panel just
-beyond the frame had lit itself. Nothing touched it. His face does not react and
-he does not turn toward it.
+1.0-3.0 sec:
+The pale green glow on his cheekbone rises smoothly and continuously across the
+whole two seconds, as if a panel just beyond the frame were warming up. Nothing
+touched it. As it rises it creeps a little further along the edge of his jaw. His
+face does not react and he does not turn toward it.
 
-2.5-5.0 sec:
-He remains completely motionless, still facing away. The brass plate deep in the
-corridor stays exactly as it is: smooth, bare, unchanged. The corridor is silent
-and still.
+3.0-5.0 sec:
+The glow holds steady. His shoulder rises and falls once with a single slow
+breath. The dust goes on turning. The brass plate deep in the corridor stays
+exactly as it is: smooth, bare, unchanged.
 
-CAMERA:
-Locked camera, aperture closed down so the foreground and the far corridor read
-sharply at once. No pan, tilt, zoom, drift or focus pull. The camera does not help
-the viewer look at anything.
+CAMERA LOCK:
+The camera is bolted down. The framing at the last frame must be identical to the
+framing at the first frame: same distance, same angle, same crop, same lens. No
+pan, no tilt, no roll, no zoom, no push-in, no pull-back, no drift, no handheld
+float, no reframing, no focus pull at any moment.
+The aperture is closed down so the foreground and the far corridor read sharply at
+once. The camera does not help the viewer look at anything.
 
 END STATE:
-The same frame, the green glow now steady on his cheekbone.
+The same frame, the green glow now steady on his cheekbone, the plate still bare.
 
 VISUAL SYSTEM:
 Cinematic psychological horror. Unsettling editorial photography. Disturbing
@@ -53,6 +58,7 @@ Do not move the camera or rack focus toward the brass plate.
 Do not write, engrave or reveal any letters on the plate: it stays bare.
 Do not add a plate to the far door.
 Do not add a figure in the corridor.
+Do not let the dust become smoke, fog, mist or particles of light.
 Do not add blood, wounds, cuts, injuries, gore or bodily damage of any kind.
 Do not add liquid of any kind pouring, dripping, seeping or spreading.
 Do not add any event that is not written in the timeline above.

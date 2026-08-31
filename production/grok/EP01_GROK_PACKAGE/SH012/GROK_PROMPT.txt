@@ -20,8 +20,12 @@ The strip is empty again. The table, the window and the glass of milk are
 unchanged. The surface of the milk is perfectly clean and smooth. The dust goes on
 turning. Nothing else happens.
 
-CAMERA:
-Locked camera. No pan, tilt, zoom, drift or focus pull. The gap does not widen.
+CAMERA LOCK:
+The camera is bolted down. The framing at the last frame must be identical to the
+framing at the first frame: same distance, same angle, same crop, same lens. No
+pan, no tilt, no roll, no zoom, no push-in, no pull-back, no drift, no handheld
+float, no reframing, no focus pull at any moment.
+The gap does not widen or close.
 
 END STATE:
 The empty lit strip, the glass of milk still clean, the darkness unchanged.
